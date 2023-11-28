@@ -1,0 +1,700 @@
+id,keyword,location,text,target,prob_DIS_TRUE,prob_DIS_FALSE,prediction
+11000,ablaze,,"Communal violence in Bhainsa, Telangana. ""Stones were pelted on Muslims' houses and some houses and vehicles were set ablaze…",1,0.91448367,0.08831403,Disaster
+11004,ablaze,,"""Lord Jesus, your love brings freedom and pardon. Fill me with your Holy Spirit and set my heart ablaze with your l… https://t.co/VlTznnPNi8",0,0.19612125,0.76304156,NOT a Disaster
+11005,ablaze,OC,"If this child was Chinese, this tweet would have gone viral. Social media would be ablaze. SNL would have made a racist j…",0,0.22696416,0.77767736,NOT a Disaster
+11006,ablaze,"London, England","Several houses have been set ablaze in Ngemsibaa village, Oku sub division in the North West Region of Cameroon by… https://t.co/99uHGAzxy2",1,0.8601308,0.13642368,Disaster
+11007,ablaze,Bharat,Asansol: A BJP office in Salanpur village was set ablaze last night. BJP has alleged that TMC is behind the incident. Police has b…,1,0.8321553,0.16620766,Disaster
+11008,ablaze,"Accra, Ghana","National Security Minister, Kan Dapaah's side chic has set the internet ablaze with her latest powerful video.… https://t.co/rhzOMQVSlj",0,0.24881409,0.7386575,NOT a Disaster
+11014,ablaze,"Reno, NV","AMEN! Set the whole system ablaze, man. https://t.co/J08xHDcGbD",0,0.18361942,0.7571919,NOT a Disaster
+11017,ablaze,,Rengoku sets my heart ablaze😔❤️🔥 P.s. I missed this style of coloring I do so here it is c: #鬼滅の刃 https://t.co/YrUF9g68s0,0,0.15790232,0.80331147,NOT a Disaster
+11018,ablaze,Worldwide,paulzizkaphoto: “Rundle Ablaze” Wishing you all a good evening... https://t.co/d0NlME1HQz https://t.co/hlVlT6qiIp,0,0.15704304,0.8129157,NOT a Disaster
+11019,ablaze,,French cameroun set houses ablaze in Ndu and roasted two young boys in their homes in #targeted killings in a #GenocideInSou…,1,0.90754086,0.09527973,Disaster
+11020,ablaze,,Cameroon's #BIR soldiers on the 05/01/2020 invaded the #SouthernCameroons Village of Kimar - So setting ablaze a total of…,1,0.919968,0.08370437,Disaster
+11021,ablaze,,As fires ablaze throughout the land/as the prophosized apocalypse comes to fruition/not a building standing/as we all come st…,1,0.7026651,0.2606175,Disaster
+11026,ablaze,,"Another arson in Njikom,Boyo,NWR. The ambazombies yesterday 13/1/2020 set ablaze the Council building. Which country in the wo…",1,0.8883228,0.11265385,Disaster
+11029,ablaze,,I swear that jam will set the world ablaze,0,0.21226287,0.7455692,NOT a Disaster
+11030,ablaze,,"Marivan, Kurdistan Province Monday, Jan 13th, 2020 Protesters set the propaganda banner of #QassemSoleimani ablaze. #I…",1,0.8916535,0.11755017,Disaster
+11031,ablaze,"Washington, DC","Marivan, Kurdistan Province Monday, Jan 13th, 2020 Protesters set the propaganda banner of #QassemSoleimani ablaze… https://t.co/IVGCYJZlmK",1,0.89073783,0.119608976,Disaster
+11058,accident,"California, USA","In completely available public information , the fires were mostly started by humans on purpose or on accident with th…",1,0.912036,0.08880196,Disaster
+11190,ambulance,Republic of Ireland.,Fire Engulfs Ambulance Conveying Corpse of Catholic Priest’s Mother; #streetjournal https://t.co/gK6dAGKRrL,1,0.92610025,0.074304804,Disaster
+11291,annihilation,Where the doggos are,[AUS] Vic Bushfire Appeal | Doggos | Animal Farm | Tomb of Annihilation https://t.co/SgKNEDTlto,1,0.8417347,0.13529421,Disaster
+11292,annihilation,,[AUS] Vic Bushfire Appeal | Doggos | Animal Farm | Tomb of Annihilation https://t.co/SgKNEDTlto,1,0.8417347,0.13529421,Disaster
+11371,armageddon,Alaska,"It was pitch black at 9.30am in Mallacoota as more than 4,000 people fled AustralianFires, seeking shelter on the beac…",1,0.9211499,0.08231006,Disaster
+11373,armageddon,"Atlanta, GA","It was pitch black at 9.30am in Mallacoota as more than 4,000 people fled AustralianFires, seeking shelter on the b… https://t.co/YtSAuNs5j8",1,0.91631716,0.08662158,Disaster
+11452,arson,"Belfast, Northern Ireland",Firefighter Let Out of Jail Despite 'Serious Sex Offenses' Arrested for Starting 17 Fires in Australia https://t.co/GiMhYIlwGC,1,0.7054666,0.28375348,Disaster
+11458,arson,USA,Climate Change Or Arson Jihad? - https://t.co/BNYlRJsACJ A look into what's behind the Australian wildfires.,1,0.8949523,0.106029436,Disaster
+11460,arson,"Helsinki, Finland","""Only about 1 per cent of the land burnt in NSW this bushfire season can be officially attribu… https://t.co/prCXHHyt1B",1,0.887054,0.112874076,Disaster
+11464,arson,Washington State,"The viral false claim that nearly 200 arsonists are behind the Australia fires, explained https://t.co/V8mJfFmBPh HANNITY…",1,0.8789474,0.12087407,Disaster
+11465,arson,,No just plain hard facts. Australia has always had fires - Tony Heller… https://t.co/pSFW3bHioq,1,0.7322321,0.2456797,Disaster
+11466,arson,Milkyway Galaxy,190 people arrested for arson!,1,0.728301,0.26455054,Disaster
+11467,arson,,I’ve had a number of messages saying that the media is ignoring arson as a major cause of the Australia bushfire crisis.…,1,0.8591996,0.1405665,Disaster
+11468,arson,,"Newscorp digging deeper. Adverse publicity about their coverage of bushfires, insistence on concentrating on arson, backbur…",1,0.87148094,0.13197778,Disaster
+11471,arson,united states,"Two of the most recent studies say there are between 52,000 and 54,000 bushfires in Australia every year. Of…",1,0.8791689,0.1253712,Disaster
+11474,arson,GO #ScoMo! GO #Boris Johnson!,"2009 bushfires in Victoria: - 173 fatalities - Labor Govt &amp; Kevin Rudd - Caused by arson, power lines, lightning - Nobody…",1,0.92336994,0.076329455,Disaster
+11475,arson,Port Alfred,Boats on fire in PA small boat harbour – arson suspected https://t.co/k7HGhdjLTQ via,1,0.92211616,0.07946987,Disaster
+11477,arson,"Bengaluru, Karnataka",Police figures show far fewer people in Australia have been charged with bushfire arson https://t.co/8KPMNFSmcp https://t.co/VQeZhECrJm,1,0.9146359,0.08460905,Disaster
+11478,arson,Indonesia,Map of 379k tweets from 190k accounts on Aus bushfires and arson. The narrative that arsonists (and not climate change) are res…,1,0.8784115,0.121954836,Disaster
+11479,arson,,Rubbish Hillary! I am an Australian living near the fires &amp; the causes of the fires have been: 1. Arson with approx 200…,1,0.90985495,0.090056695,Disaster
+11480,arson,"Victoria, Australia","We cannot stop bushfires, we must plan to live with them. This means significant change, including information and… https://t.co/XX4QCfV9h3",1,0.7739437,0.1993369,Disaster
+11481,arson,,Emergency Services Commissioner Andrew Crisp says most Victorian fires started by lightening. Not aware of any police…,1,0.9027762,0.10104445,Disaster
+11483,arson,Australia,I've gotten a lot of hate mail for our latest article about the actual arson figures for this bushfire season. Some have accus…,1,0.9027588,0.09760253,Disaster
+11485,arson,"gehenna, probably",that's right im rdg caste heaven.... surprised no one's thought of arson,0,0.21905708,0.750226,NOT a Disaster
+11487,arson,"Oregon, USA",Yeah because arson and poor forest management is not climate change.,1,0.7112046,0.26735276,Disaster
+11488,arson,Nazi Germany,200 people were arrested for arson 😂,1,0.85531974,0.15255763,Disaster
+11489,arson,,"Officials Charge Nearly 200 with Arson, Looting as Wildfires Rage https://t.co/sY2lhGhsGZ",1,0.9198968,0.08871939,Disaster
+11491,arson,"Sydney, Perth and Oxford.",As fire chiefs in NSW have made clear there may be a few cases of arson but most fires are caused by ligh… https://t.co/7GDlTmGvrO,1,0.8637919,0.13706858,Disaster
+11494,arson,chicago,Ladies don’t ever go to jail for arson over a dusty ass cheating man in a c class 😩 is his date just sittin there waitin…,0,0.20994025,0.7648303,NOT a Disaster
+11495,arson,,"it's not just arson that's starting the fires though, in some ar… https://t.co/n6keLJK9yB",1,0.81884956,0.18073493,Disaster
+11497,arson,日本 東京,"As part of our analysis of misinformation propagated about the Australian bushfires, has produced this detai…",1,0.8717528,0.123441584,Disaster
+11498,arson,Australia,"TASA member et al. was in the recently on, ' #Bushfires, #bots and #arson claims: #Aus…",1,0.90417683,0.09904322,Disaster
+11499,arson,"Oregon, USA",HE HAS A FUCKING HEART AND A LITTLE RAINBOW EMBROIDERED ONTO HIS PANTS IM GOING TO COMMIT ARSON https://t.co/hF30TdQGpy,0,0.24622922,0.70229197,NOT a Disaster
+11501,arson,"Kolkota, West Bengal","Violence, arson across West Bengal as strikers try to enforce bandh; 55 arrested in Kolkata - Times of India… https://t.co/bIMdUMDstT",1,0.89256406,0.10970857,Disaster
+11503,arson,,"There's no doubt, , that officials are downplaying arson's role in Australia's fires (because they are global…",1,0.90635514,0.0924048,Disaster
+11504,arson,🎯🚩🔥☸आर्यव्रत☸🔥🚩🎯,"Dr ji Pakistan,Bangladesh 'Terrorist' Elements Behind Anti-CAA Arson, Says Dr.Swamy Dr Swamy claimed…",1,0.8865674,0.110787235,Disaster
+11505,arson,,Arson major factor in Australian Fires... https://t.co/X59fykaOdA,1,0.91542095,0.08478127,Disaster
+11507,arson,"Perth, Western Australia","In response to those spreading misinformation about arson being behind the horrific bushfire season in Australia, here are…",1,0.8663339,0.1328139,Disaster
+11513,arsonist,"Melbourne Australia
+",Equivalent of an arsonist that lights the fire then rushes in as a hero to put it out! Except this fi… https://t.co/xFebDYfVsa,0,0.25299558,0.718952,NOT a Disaster
+11514,arsonist,"Townsville, Queensland",Have I got this right #Arsonist in Chief of #AustraliaBurning Morrison is even smugger &amp; smirkier than usual bc he clai…,0,0.19689499,0.78409415,NOT a Disaster
+11515,arsonist,,Fke news. None of the bush fires in Victoria were lit by arsonist.,1,0.9170176,0.08287124,Disaster
+11517,arsonist,United States,It’s called 185 arsonist!,0,0.20686114,0.7755797,NOT a Disaster
+11524,arsonist,,Australia is burning because people intentionally set the bushes on fire to create panic that doesn't or… https://t.co/UjUGS9Mne1,1,0.75377905,0.23024379,Disaster
+11525,arsonist,"Minnesota, USA","Trump is simply a political arsonist. He requires crisis and chaos to survive. If there is no crisis, he will create…",0,0.26542175,0.71088517,NOT a Disaster
+11527,arsonist,,Moving on very quickly from the bush fires you arsonist,1,0.85718477,0.13330303,Disaster
+11528,arsonist,,"Trump is simply a political arsonist. He requires crisis and chaos to survive. If there is no crisis, he…",0,0.25562778,0.721355,NOT a Disaster
+11653,attacked,"Carolina, Puerto Rico",Remember when Brie Larson said we needed more diversity in critics for THIS exact reason and the internet attacked her... he…,0,0.24255672,0.7752151,NOT a Disaster
+11839,bioterrorism,,It's bioterrorism causing it. They have arrested over a hundred arsonists for setting fires,1,0.82319057,0.17800926,Disaster
+12066,blight,Earth,Oh that's a good point. We went with a tiefling named Avanka Fire-Blight.,0,0.19814433,0.7771881,NOT a Disaster
+12112,blizzard,Famfrit,"Firefighter Hog, made in honor of the firefighters and the many animal lives that have been lost in the fires, as well as…",1,0.79146147,0.21365234,Disaster
+12183,blood,Japan,Gunmen ‘open fire on protesters in Iran’ in videos that show blood on the streets of Tehran #Iran #HumanRights #IranProte…,1,0.8935171,0.11049716,Disaster
+12581,bombing,"Essendon, Melbourne, Australia",What I keep wondering. Would these bushfires have been so severe and unputoutable if we'd had more water bombing aircraft…,1,0.90532225,0.0900563,Disaster
+12601,bombing,Belgrade,"https://t.co/PPqaOwCEqB Libyan National Army commander Khalifa Haftar left Moscow without signing a ceasefire, Lavr… https://t.co/t4vCMzIqTX",1,0.88086075,0.117042534,Disaster
+12637,bombing,Australia,"""resilience and adaption"" ... like how he adapted when he met with the fire chiefs ..like when he ok… https://t.co/pzg315JzG0",0,0.22048533,0.7588852,NOT a Disaster
+12660,bridge-collapse,,Hurricane Harvey: Silsbee Tx Flooded at Hwy 96 - Day before the Bridge Collapse https://t.co/wjLM9rbQl6,1,0.9257342,0.07490537,Disaster
+12662,bridge-collapse,,"Dont forget my friend. When there is crisis in India, RSS always comes for help. Bridge collapse, floods…",1,0.9099819,0.08436956,Disaster
+12672,bridge-collapse,Carmel NY,"You must've missed the bridge collapse in 95 in Connecticut. Police, and Fire are locally funde… https://t.co/7suvQaNQsE",1,0.9068421,0.08714484,Disaster
+12698,buildings-burning,Earth,Please tell me what is happening here. Why are those buildings burning? Who started the fire? Who killed those people? Why?,1,0.9014369,0.10506889,Disaster
+12706,buildings-burning,Conchologia,From what I know...these burning buildings are an annual occurrence. I am not ruling out arson but jus… https://t.co/LsEc981h68,1,0.70237756,0.27215067,Disaster
+12728,buildings-burning,Maryland,VIDEO: Drone footage captures massive Bound Brook fire from up above --&gt; https://t.co/GolN4wmpUQ (Courtesy: RH) https://t.co/3W…,1,0.8866214,0.10870093,Disaster
+12742,buildings-burning,PlanetJCG,#BoundBrookFire Firefighters from several different departments came together to prevent even more buildings from burn…,1,0.8997624,0.10389668,Disaster
+12744,buildings-burning,New York City,"Massive fire burning in apartment building under construction, neighboring buildings in New Jersey https://t.co/96UeW5Jpno",1,0.9162181,0.08186293,Disaster
+12745,buildings-burning,NJ,#BoundBrookFire Firefighters from several different departments came together to prevent even more buildings from… https://t.co/WwYgBEupzJ,1,0.8646939,0.13482295,Disaster
+12750,buildings-on-fire,,Fire Panel says a pull station was pulled in one of our buildings. All the pull stations look fine. Weird. Fire For… https://t.co/WNgumqeLlF,1,0.8751943,0.12687428,Disaster
+12760,buildings-on-fire,,"With all the buildings that have been ‘set’ on fire in Glasgow over the last few years, it’s doesn’t sit right. the… https://t.co/6i6ZIfynFV",1,0.850207,0.13754332,Disaster
+12761,buildings-on-fire,"Toronto, ON, Canada","When fire ravaged Notre-Dame Cathedral in Paris on April 15, 2019, the whole world was in shock that the heritage of this i…",1,0.9011616,0.102570355,Disaster
+12767,buildings-on-fire,,Glasgow still setting unused buildings on fire in 2020 then 😂,1,0.902679,0.0998524,Disaster
+12768,buildings-on-fire,"Bridgewater, NJ",An update on the massive fire on Main Street in Bound Brook Sunday night. https://t.co/GjM6x84Rtt,1,0.9125457,0.089435145,Disaster
+12769,buildings-on-fire,Canberra,"Bushfire lessons available to act on ahead of royal commission, experts say ensuring towns have multiple access roads build…",1,0.84461343,0.14454359,Disaster
+12771,buildings-on-fire,Australia,"Bushfire lessons available to act on ahead of royal commission, experts say ensuring towns have multiple access roa… https://t.co/IWETVdgIkW",1,0.8582385,0.13186654,Disaster
+12774,buildings-on-fire,Northern California USA,6-Alarm #Fire #BoundBrook #NewJersey Sun Massive Fire Start ~8PM 5 Story 174 Apt Bldg And Retail Under… https://t.co/mkAGx1QlRw,1,0.82742465,0.16221784,Disaster
+12776,buildings-on-fire,Unknown,"An enormous fire on Sunday engulfed two apartment buildings that were under construction in Bound Brook, New Jersey, sowing pa…",1,0.9149113,0.08916713,Disaster
+12777,buildings-on-fire,"New York, New York","Nearly 12 hours after this fire began, crews are STILL at the scene hosing down buildings to keep neighbors out of har…",1,0.9145499,0.09159746,Disaster
+12778,buildings-on-fire,,"A raging fire in Bound Brook, New Jersey, on Sunday destroyed several buildings and went to seven alarms.… https://t.co/b12SdhSF4Z",1,0.92496365,0.0795741,Disaster
+12780,buildings-on-fire,San Francisco,If 1 fire (4 buildings) knocks out to power to thousands what would a purposeful attack on the power grid do? Maybe… https://t.co/u8BWaYrDZw,1,0.7935545,0.1774243,Disaster
+12781,buildings-on-fire,"Toronto, NYC, London","When fire ravaged Notre-Dame Cathedral in Paris on April 15, 2019, the whole world was in shock that the heritage o… https://t.co/oH3NIOqnLq",1,0.90271807,0.102375194,Disaster
+12782,buildings-on-fire,,2 buildings on fire at seminole State College Stanford campus. 8 fire trucks including some from Longwood. #seminolestate.,1,0.9203568,0.082917176,Disaster
+12783,buildings-on-fire,"Sanford, FL","Attention Raiders, the Seminole County Fire Department is on the SLM Campus assessing smoke from an electrical issue in…",1,0.74376345,0.25520805,Disaster
+12786,buildings-on-fire,"Philadelphia, PA","A massive fire in North Jersey consumed at least five buildings, forced over 100 residents to evacuate and shut dow… https://t.co/7Y2wjitVyi",1,0.92508346,0.076656595,Disaster
+12787,buildings-on-fire,New Jersey,"Following last night's seven-alarm fire in downtown Bound Brook, citizens face power outages, road closures and sch… https://t.co/1llyVlN0iJ",1,0.9259638,0.076470114,Disaster
+12788,buildings-on-fire,imperial stronghold,"*the bombers fly high as the fighters fly low, the fighters fire their lazers at the buildings and small shops, as… https://t.co/UDmaZ4QqB0",1,0.7792541,0.19712818,Disaster
+12790,buildings-on-fire,"Lima, OH",No one was injured after a fire on the 6th floor of the apartment buildings on N. Elizabeth St. in Lima. https://t.co/1tP3OuqyQe,1,0.91303664,0.09207256,Disaster
+12793,buildings-on-fire,OnFreedomRoad.com,"#thankful 9/11 vs Cal Fires So is this an attack on America? Say, like 9/11. The same questions must be asked a… https://t.co/MpnzMeClP9",0,0.26588154,0.7517528,NOT a Disaster
+12795,buildings-on-fire,,Update: the fire crossed the street. I’m hearing at least five buildings on that side affected. Town has several bl… https://t.co/0hR1HV8cIc,1,0.92429596,0.075434335,Disaster
+12796,buildings-on-fire,"New York, NY","Nearly 12 hours after this fire began, crews are STILL at the scene hosing down buildings to keep neighbors out of… https://t.co/6YAj9uh9Yb",1,0.9110345,0.094539925,Disaster
+12797,buildings-on-fire,Newcastle,"so buildings on fire everyone can’t get their stuff, passports etc and someone’s actually kicking off cos he needs… https://t.co/benJ3DVmfX",1,0.80772656,0.18124449,Disaster
+12798,buildings-on-fire,near Detroit,Massive fire in New Jersey leaves thousands without power: U.S. media A massive fire engulfed many buildings in Bound B…,1,0.9292556,0.07197063,Disaster
+12799,buildings-on-fire,USA,Massive fire in New Jersey leaves thousands without power: U.S. media A massive fire engulfed many buildings in Bou… https://t.co/aO79viaMHT,1,0.9280715,0.073602304,Disaster
+12801,buildings-on-fire,,"Hoo, some less-terribly-priced Lego Fire Brigades and Town Halls slipped through my grasp, and maaaannnnn the price… https://t.co/k2JpgRVSG0",0,0.17487328,0.786602,NOT a Disaster
+12802,buildings-on-fire,limburgia,but its not even the GOOD crime its just. People who can't drive and set empty buildings on fire,1,0.75954247,0.22368772,Disaster
+12807,buildings-on-fire,,"A massive fire in Somerset County consumed at least five buildings, forced over 100 residents to evacuate and suspe… https://t.co/72cwoB36DA",1,0.9260054,0.07685038,Disaster
+12809,buildings-on-fire,"Ohio, USA","This firefight far from over, Fire started at an apartment complex that was under construction,…",1,0.9176381,0.08737924,Disaster
+12810,buildings-on-fire,"Illinois, USA","It doesn’t matter if it was one person or several hundred people, anyone who starts a fire on…",1,0.76296175,0.23528957,Disaster
+12811,buildings-on-fire,"Glendale, Ca",Tfw ur buildings on fire. https://t.co/4HAIN43TZ4,1,0.9247907,0.07580292,Disaster
+12815,burned,Tasmania/ACT,#Bushfires on #KI have ravaged #glossyblackcockatoo habitat to an extent that has us worried about the survival of the sp…,1,0.8639979,0.12649494,Disaster
+12827,burned,Japan,This timelapse of #Sentinel3 🇪🇺🛰 imagery shows the magnitude of the #AustralianBushfire crisis in terms of burned areas…,1,0.91931933,0.08273948,Disaster
+12833,burned,Ballina nsw australia,"Despite extensive hazard reduction burning across the country over the past decade, some are arguing these #bushfires are evide…",1,0.87605816,0.121419415,Disaster
+12837,burned,,🚨 AUSTRALIA IS ON FIRE 😭 At least 24 people have so far been killed - including three volunteer firefighters - and mor…,1,0.9260878,0.076494955,Disaster
+12838,burned,"Melbourne, Victoria","Hello all, as you guys know Australia has been on fire for quite a while now, almost 500,000,000 animals have been wiped o…",1,0.7703584,0.20347121,Disaster
+12839,burned,"Brisbane, Queensland",real-time-ish NSW burned areas finally available for the current fire season as a webservice and holy shit just look at i…,1,0.8855302,0.11934455,Disaster
+12840,burned,On the road again,The trial over Ghylaine Bouchait is underway in Nanterre outside Paris. She burned to death inside her apartment in a fire…,1,0.7983574,0.21715637,Disaster
+12843,burned,towards The Center,Sami Yusuf- Fire - Live in concert 2015 Sami my dear Ustad you really burned the stage 🔥 with your smile I really… https://t.co/ri6CXJtZ7R,0,0.2837924,0.7043957,NOT a Disaster
+12846,burned,au,13 years ago we predicted that the worst fire seasons would be directly observable in australia by the year 2020. australia’s…,1,0.88223684,0.11745826,Disaster
+12851,burned,,"Hello all, as you guys know Australia has been on fire for quite a while now, almost 500,000,000 animals have been… https://t.co/YLq11QTQ4R",1,0.80743307,0.17083102,Disaster
+12852,burned,au,"Australia’s government called bushfire damage to wildlife an ""ecological disaster."" The military is clearing up scores of dead…",1,0.91815495,0.07965981,Disaster
+12863,burned,Planet Earth,"""This devastating loss due to the fires is simply unfathomable."" Since August, about 7 million acres — about a sixth of t…",1,0.8947368,0.10771827,Disaster
+12867,burning,,Keep the fire burning One Its. Let's fight till the end just like how the boys fought till the end. X1 and One Its...we'll…,0,0.23356216,0.74809164,NOT a Disaster
+12873,burning,India,"#Burning GN Rao Committee #Report and the #Boston Consulting Group Report in the #Bhogi Fire, along with other Trash, in #Thu…",1,0.9141602,0.081026815,Disaster
+12920,burning,Sydney,"Staff at Mogo Zoo on the NSW South Coast saved the property, fighting fires burning at the zoo. These gorgeous gibbons were…",1,0.8088971,0.16889149,Disaster
+12924,bush-fires,Norwich UK,Today me and Christian are dedicating our sign language song to everyone in Australia who is affected by the bush fire…,1,0.82007897,0.17841375,Disaster
+12925,bush-fires,United States,"Linking the bushfire disaster in NSW to climate change is ""an absolute nonsense"" and reducing fuel loads in the Australi…",1,0.8881975,0.10299451,Disaster
+12926,bush-fires,"Sydney, Australia","I imagine Tony will just say that the bush fires are all part of god's plan, very much doubt he will… https://t.co/ubU3i0ql5P",1,0.8120524,0.17493077,Disaster
+12927,bush-fires,"Hell,Hades,Mictlan,Tartarus",I wonder how many homes could have been saved in the bush fires if the LNP was not in power #auspol,1,0.87913173,0.11966267,Disaster
+12928,bush-fires,UK,"Ever since it came out that bush fires in Australia are caused by arsonists, not by ""climate crisis"", the BBC appear a lot…",1,0.876439,0.124993354,Disaster
+12931,bush-fires,Islas Canarias,More like an ill considered change in bush management and multiple fires set by arsonists.,1,0.86367965,0.13521998,Disaster
+12932,bush-fires,Wangal Country,"So apparently the solution to bush fires is to chop down all the trees, clear all the land, sell to developers to build wh…",1,0.7206553,0.2641354,Disaster
+12933,bush-fires,,Murdoch criticises the science of the Australian Bush Fires causes then donates to the relief fund. https://t.co/5r4L1EYyOn,1,0.8449616,0.14827573,Disaster
+12934,bush-fires,"England, United Kingdom 🏴󠁧󠁢","""Jimmy escaped the fires, but not the pain of devastating loss"" We don’t really have the capacity to grasp this much loss — no…",1,0.8805724,0.11756836,Disaster
+12936,bush-fires,"Queensland, Australia",Video About Australian Bush Fires Has Been Up For A While! Give It Some Love! 💗🙏 #fightthefires https://t.co/bEUByX129H,1,0.88402355,0.11970185,Disaster
+12938,bush-fires,,Australian guy has been helping koalas after the bush fires https://t.co/ceAr6A6HGO,1,0.8709225,0.12708335,Disaster
+12939,bush-fires,Sydney,Oh this is in Australia because of bush fires! But yeah. Welcome to our future.,1,0.9019906,0.09992702,Disaster
+12940,bush-fires,Cascadia,A 1.5-million-acre “megafire” is threatening Australia. Indonesia is dealing with deadly floods. We cannot keep avoiding…,1,0.92412245,0.07570109,Disaster
+12941,bush-fires,"Harrogate, England",Here at the EU a gaggle of MEPs are debating the Australian bush fires It’s as sparsely populated as the Outback in her…,1,0.8761164,0.11596116,Disaster
+12942,bush-fires,uk,Australia fires: Aboriginal planners say the bush 'needs to burn' https://t.co/Y835jVr9Dr,1,0.8132365,0.17833929,Disaster
+12944,bush-fires,,Rural Fire Service volunteer firefighter rescues a possum fleeing one of Australia's raging bush fires. More than 1 billion animal…,1,0.9077086,0.08790487,Disaster
+12945,bush-fires,"Chester, England","2019 is officially Australia’s hottest year on record, &amp; with that has brought an earlier start to bush fire season… https://t.co/fW2N3fuyzu",1,0.82848877,0.16404998,Disaster
+12946,bush-fires,West Sussex.,"It’s very clear. Like the bush Fires climate change, racism, Brexit and Farage are to blame.",1,0.8273071,0.15493537,Disaster
+12949,bush-fires,,Australia fires: Aboriginal planners say the bush 'needs to burn' https://t.co/omtA1WI6HU,1,0.8132365,0.17833929,Disaster
+12952,bush-fires,"Sydney, Australia.",I wonder how many homes could have been saved in the bush fires if the LNP was not in power #auspol,1,0.87913173,0.11966267,Disaster
+12953,bush-fires,,This is what smoke blown in from bad bush fires look like,1,0.8955325,0.104261726,Disaster
+12954,bush-fires,Australia,All animals will survive &amp; increase they have in the 6 bush fires I have experienced in Australia &amp; vegetation reg… https://t.co/YyPLUu0Gko,1,0.79376036,0.17821057,Disaster
+12955,bush-fires,,Imagine being so stupid you think bush fires are the same as house fires 🔥,1,0.866173,0.12742902,Disaster
+12956,bush-fires,"London, England",The bush fires destruction of nature and wildlife in Australia has hit home hard with many of us we thought it only ap…,1,0.8821636,0.110086925,Disaster
+12957,bush-fires,"Gippsland Victoria, Australia",While the destruction of wildlife in the bush fires is horrific and distressing. The sight of two kookaburras early th…,1,0.89417464,0.10474317,Disaster
+12960,bush-fires,Glasgow,I had a dream that they were shooting 'I'm a Celeb' during the Oz Bush Fires. I'll let you construct your own jok… https://t.co/jvQCQGF8W5,1,0.84191865,0.15439701,Disaster
+12961,bush-fires,"Witney, Oxfordshire",Australia fires: Aboriginal planners say the bush 'needs to burn' https://t.co/MFxS8C7YXa,1,0.8132365,0.17833929,Disaster
+12962,bush-fires,Carshalton,"Yesterday, I said kangaroos were digging holes to save their Joeys from #AustralianBushfires. Several Australian field bi…",1,0.90250695,0.09606233,Disaster
+12967,bush-fires,,"Smoke from Aussie bush fires to circle the Earth, spreading pollution: Nasa https://t.co/82lxgUCTaV",1,0.89634246,0.101762265,Disaster
+12968,bush-fires,Ghana,"Please and please again, there should be no burning of refuse, especially, in this harmattan season when bush fires can eas…",1,0.7811302,0.20491284,Disaster
+12972,bush-fires,,"At 9:00pm there are 105 bush and grass fires burning across NSW, with 38 not yet contained. All fires are currently at the Advi…",1,0.91235113,0.093838185,Disaster
+12973,bush-fires,Southern California,THE GREAT AUSTRALIAN BUSH FIRES: The 2019-2020 Australian summer is an apocalyptic warning of what climate change can d…,1,0.89626276,0.10292244,Disaster
+12974,bush-fires,Southern California,KANGAROO ISLAND’S UNIQUE WILDLIFE DEVASTATED IN BUSH FIRES – Read more about it on my blog: https://t.co/a2OUQRRuST #B…,1,0.86028105,0.12471167,Disaster
+12977,bush-fires,,"This story of Jimmy is utterly heartbreaking. 'When people talk about these fires, they often speak of being overwhelmed b…",1,0.71527696,0.2865621,Disaster
+12978,bush-fires,,A picture can speak a thousand words..... God Bless all those who are fighting the terrible Australian Bush fires. They are t…,1,0.89252454,0.1075162,Disaster
+12982,bush-fires,,Photos show the Australian bush coming back to life weeks after fires https://t.co/1XxnCDeH2u via,1,0.85722524,0.13823926,Disaster
+12983,bush-fires,Mostly London,So what happened to Australian bush fires? Or the tens of thousands of people displaced in the Philippines due to a… https://t.co/QNj5IFoozz,1,0.9220487,0.07663373,Disaster
+12984,bush-fires,"West Hartford, CT",BBC News - Australia fires: Aboriginal planners say the bush 'needs to burn' https://t.co/4BBuMTIksr,1,0.78816,0.19877577,Disaster
+12985,bush-fires,"Austin, TX","Jeff Bezos says Amazon is donating $690,000 to Australian bush fire efforts...#CNBC #Tech https://t.co/kivhyOuMYn",1,0.75418156,0.24274655,Disaster
+12986,bush-fires,California,I think we will experience more bush fires with world temperatures rise. 😔😔😐 May God help us... We must take steps… https://t.co/hZlpG23K2x,1,0.90232056,0.10513302,Disaster
+12987,bush-fires,living @ pink glow cloud,me: talks about how j*ff b*zos deserves to be thrown into the australian bush fires he doesnt help out with his imm… https://t.co/oi6G1yPvgQ,1,0.7800768,0.2023319,Disaster
+12988,bush-fires,"wakatipu, aotearoa | she/her ","The Australian bush fires have been and continue to be devastating. We, like many others, feel we have a responsibility t…",1,0.9158445,0.08645983,Disaster
+12989,bush-fires,Australia,Photos show the Australian bush coming back to life weeks after fires https://t.co/1XxnCDeH2u via,1,0.85722524,0.13823926,Disaster
+12990,bush-fires,,IT WAS FAKE NEWS TO DIVERT ATTENTION OF THE PLANET..JUST LIKE FAKE BUSH FIRES OF USA......UNQUOTE,1,0.8017236,0.18726237,Disaster
+12991,bush-fires,,A run has been set up to raise money for the Australian Red Cross to help support those affected by the bush fires. Sun 19…,1,0.8813615,0.12274694,Disaster
+12992,bush-fires,"Genève, Suisse",The ongoing Australian bush fires with more than 1 billion wild animal victims is a first grade biodiversity catastrop…,1,0.88867015,0.10491902,Disaster
+12993,bush-fires,,"Two Men arrested on suspicion of terrorism in Australia for starting bush-fires, laugh.... Nearly half a billion animals h…",1,0.91131175,0.09142183,Disaster
+13000,casualties,"Siracusa, Sicilia",#AustraliaBushfires: The race to save #KangarooIslandFires animal casualties!! #AustralianBushfiresDisaster…,1,0.91168827,0.084341206,Disaster
+13005,casualties,"New Delhi, India",Delhi: Fire breaks out at footwear factory https://t.co/PGmJ7UhCqG #delhi #newdelhi,1,0.9197567,0.0863749,Disaster
+13015,casualties,Oregon,"#UPDATE: No casualties reported in the explosion at a chemical factory in Zhuhai, South China's Guangdong, and the fire has be…",1,0.918047,0.07981415,Disaster
+13021,casualties,"Faridabad, India",Fire breaks out a shoe manufacturing unit in at the Lawrence Road in North Delhi. 26 fire tenders rushed to the spot. No cas…,1,0.91830784,0.087839484,Disaster
+13031,casualties,,"Fire Breaks Out At Bharat Petroleum Plant In Mumbai, No Casualties https://t.co/7e2Nz0x2O0",1,0.93071586,0.07170695,Disaster
+13037,casualties,"北京, 中华人民共和国","#Update: No casualties have been found and the fire has been put out, according to local authorities. The cause of… https://t.co/130QV9UDSC",1,0.92426145,0.08314866,Disaster
+13049,casualty,Kent,Next time on #Casualty! Tune in Saturday 21.20pm on Vote for Casualty in the 🏆👉 https://t.co/xCWu…,1,0.76065207,0.21763308,Disaster
+13057,casualty,India,"In year 2019 , record of no casualty due to railway accident . If this epitome can be achieved with present system .Then…",1,0.77422565,0.20318913,Disaster
+13059,casualty,United Kingdom,Just happened to be passing Bourne Park on the A343 and had to dispatch yet another deer casualty!! … https://t.co/jUiPo9Mb3F,1,0.86332774,0.13127087,Disaster
+13060,casualty,"San Francisco, CA",Count is 80+ Sir and surprisingly no Pak Army casualty??,1,0.87846893,0.10944854,Disaster
+13062,casualty,Mumbai India,Fire in Mahul. Fire in BPCL #Mahul No casualty reported so far How is the going to ensure security of residents…,1,0.93115926,0.07295584,Disaster
+13063,casualty,"Geelong, Victoria, Australia","That is, if you are fortunate to find mandarins anywhere. At all. Another bushfires casualty, most likely.",1,0.860514,0.1255444,Disaster
+13064,casualty,"Bolton, England","A casualty of the fires. Burning at times at a speed of up to 3kms a second, many wildlife didn’t stand a chance. With dead…",1,0.91757876,0.08295115,Disaster
+13065,casualty,"Seattle, WA","Beat:E1, CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA) at 3XX BLOCK OF HARVARD AV E repor… https://t.co/xXvjIutOfM",1,0.90392905,0.09136164,Disaster
+13066,casualty,"Nairobi, Kenya",first locust casualty in 2020. #UhuruAddress,1,0.9093266,0.08430025,Disaster
+13067,casualty,Australia 🇦🇺,Having tasted the blood of their 1st LNP casualty.....another witch hunt &amp; call to arms ensues for more online 'pil… https://t.co/F20p60N0fk,0,0.24747258,0.7274698,NOT a Disaster
+13070,casualty,Bharat,Any dog casualty?,1,0.71483624,0.23251991,Disaster
+13071,casualty,Armenia,RTA on Bagratunyats Avenue: there was a casualty https://t.co/e35ykdlTVA,1,0.93132675,0.07063653,Disaster
+13073,casualty,,"Yes let's. Very likely 3,270 days from now our nuclear casualty body count would be the same as Fukushima's today. i.e.…",1,0.9085548,0.08296603,Disaster
+13074,casualty,"Johannesburg, South Africa","[BREAKING] - ER24, Life Healthcare and WC Metro Services, are on scene of a mass casualty incident in Wetton in the Western Ca…",1,0.9241233,0.07826829,Disaster
+13076,casualty,"South Alabama, USA",They are dropping like flies in the #DemocRATPrimary: The latest casualty #CoreyBooker (aka #Spartacus). Remember #DevalPa…,1,0.76951534,0.18895875,Disaster
+13077,casualty,"Belfast, Northern Ireland","3 years since Jacob told Connie, “It’s over” and I’m still holding out for that reunion! 🙏🏼 #Casualty https://t.co/dwy…",0,0.21831332,0.7601675,NOT a Disaster
+13083,casualty,Tasmania,Years ago I nearly was a casualty of cancel culture. Some NZ tweeters had been piling on me on &amp; off for a long time &amp; I exp…,0,0.20686342,0.78349775,NOT a Disaster
+13084,casualty,"Wellington, NZ",Years ago I nearly was a casualty of cancel culture. Some NZ tweeters had been piling on me on &amp; off for a long tim… https://t.co/y1k7JeAIw8,0,0.20306122,0.7803391,NOT a Disaster
+13085,casualty,"South Petherton, England","Energetic and Comedic Redhead Teen, just seen on #Casualty Playing age 12-15, Northern and American Accents, worked wi…",0,0.2030419,0.795466,NOT a Disaster
+13086,casualty,"Redwood City, CA",SNOW STORM CASUALTY: #FANCYWATEROFTHEDAY https://t.co/qJyi9PheIB,1,0.9183547,0.077039056,Disaster
+13091,casualty,"West Midlands, England","3 years since Jacob told Connie, “It’s over” and I’m still holding out for that reunion! 🙏🏼 #Casualty https://t.co/dwy43RhaCv",0,0.21831332,0.7601675,NOT a Disaster
+13094,casualty,"Long Beach, CA","“It’s a paradox we call reality, so keepin it real will make you a casualty of abnormal normality”",0,0.20014556,0.75304985,NOT a Disaster
+13096,casualty,North Scotland,"Exeter off . The casualty list mounting . Huntington, Leicester last 7 days too ... only 1 jump fixture next Sunday… https://t.co/XsOV7wqLpc",1,0.7223075,0.25239986,Disaster
+13100,catastrophe,Wellington NZ,"Once the fires are out, water will emerge as the next mismanaged catastrophe. Catchment stream flows central north we…",1,0.86151075,0.13341987,Disaster
+13104,catastrophe,Riverina,"Here's what you can learn from the conservative response to the bushfire crisis — a masterclass in spin, wilful ignorance…",1,0.7239449,0.2654078,Disaster
+13115,catastrophe,,P.S. The fire raging in Australia is not an Australian affair. It affects the whole world. It is an international catas…,1,0.8653004,0.1310338,Disaster
+13122,catastrophic,,"Australia's catastrophic bushfires and the smoke haze blanketing major cities have sparked concerns among international students,…",1,0.89357966,0.101931155,Disaster
+13125,catastrophic,Planet Earth,Australian fiction is already challenging the idea that catastrophic bushfire is normal | Rachel Fetherson https://t.co/…,1,0.88294053,0.1058783,Disaster
+13126,catastrophic,"Atlanta, GA",The catastrophic fires in Australia are the latest example of the very real and very urgent consequences of climate change…,1,0.9074779,0.09243528,Disaster
+13138,catastrophic,"Launceston, Tasmania",#isitok to say P.M. Scott Morrison's response to catastrophic bushfires is woefully inadequate? #Scottnoclue.,1,0.90174955,0.09384954,Disaster
+13141,catastrophic,"Katoomba, Blue Mountains",Conservationists and scientists fear bushfires that have ravaged parts of Australia have had a catastrophic impact on flora an…,1,0.855167,0.1328812,Disaster
+13145,catastrophic,Australia,Conservationists and scientists fear bushfires that have ravaged parts of Australia have had a catastrophic impact… https://t.co/vUmSy99Ene,1,0.9011365,0.09867343,Disaster
+13151,catastrophic,Melbourne Australia,Thank you . Bushfires and Bushfire smoke. Your catastrophic failure of leadership and your policy of climate…,1,0.74872977,0.23486724,Disaster
+13157,catastrophic,SF Bay Area,guardianeco: Australian fiction is already challenging the idea that catastrophic bushfire is normal | Rachel Fetherson htt…,1,0.90046215,0.08967187,Disaster
+13158,catastrophic,An Australian increasingly more concerned about democracy in Australia.,"1 Billion Animals Killed In #BushfireCrisis , Scientists Warns Of Catastrophic Extinctions , The Animals At Risk During And…",1,0.8727211,0.11472125,Disaster
+13160,catastrophic,ACT,“Morrison knew a catastrophic fire season was on its way. The Home Affairs Department had risk reduction and mitigation s…,1,0.8617152,0.13889973,Disaster
+13163,catastrophic,"Warsaw, Poland",These fires were preceded by the hottest and driest conditions in Aus history. Unless there are global reductions in…,1,0.9041574,0.09734178,Disaster
+13165,catastrophic,"Hampshire, England",Australian fiction is already challenging the idea that catastrophic bushfire is normal | Rachel Fetherston https://t.co/VXVbCVdxaL,1,0.88775796,0.103586145,Disaster
+13170,catastrophic,Tucson Arizona,Muslim Teen Laughs After Appearing in Court for Setting Fires. Yep! Muslims set the catastrophic fires in Australia. What…,1,0.8960357,0.105849996,Disaster
+13177,catastrophic,Regional NSW,‘The price of vegetables is expected to jump by up to 50% as catastrophic bushfires destroy crops&amp; shut down highways…,1,0.90773946,0.09333314,Disaster
+13179,catastrophic,,Australian fiction is already challenging the idea that catastrophic bushfire is normal | Rachel Fetherston | Books… https://t.co/Qcl11vlmA9,1,0.8806791,0.10896694,Disaster
+13185,catastrophic,"New Delhi, India","With everything here, not been following the catastrophic #AustraliaFires As always 🐶s give hope. 🐶 saving 🐨s. https://t.co/7l1vSohbdj",1,0.90323675,0.09714403,Disaster
+13186,catastrophic,"Warsaw, Poland",guardianeco: Australian fiction is already challenging the idea that catastrophic bushfire is normal | Rachel Fethe… https://t.co/9tNgtZwrUz,1,0.88498986,0.10316203,Disaster
+13229,chemical-emergency,Tamuc ✈️ DDD,#QuesSaveLives Hubby just got a fire alarm call and had to suit &amp; boot-up. He works in the Chemical field but volunteers on t…,0,0.18921985,0.7941594,NOT a Disaster
+13231,chemical-emergency,"Cincinnati, OH","Flood waters 💦 and standing waters pose various risks, including infectious diseases, chemical hazards, and injurie… https://t.co/YhlulOWKjo",1,0.8180786,0.16231833,Disaster
+13233,chemical-emergency,"Houston, TX",#QuesSaveLives Hubby just got a fire alarm call and had to suit &amp; boot-up. He works in the Chemical field but volun… https://t.co/5m9ZL34HwM,0,0.1765321,0.80707496,NOT a Disaster
+13238,chemical-emergency,"Hamilton County, TN","Are you a firefighter, a chemical facilities employee, or have experience in emergency services? The Hamilton Coun… https://t.co/q4OlJ4PZ0B",0,0.24177873,0.7412435,NOT a Disaster
+13348,collapse,Everywhere,"Haftar to Egypt ? #Libya crisis / Moscow talks collapse, at least for now: Haftar backs out of Russian negotiated ceasefire…",1,0.84492046,0.13837123,Disaster
+13372,collapsed,,"#Auspol If our pathetic Govt moves vs Coal, they will be collapsed by their Masters, #ArsonistMineralCouncil. Govt only exi…",0,0.25937694,0.7202936,NOT a Disaster
+13392,collapsed,,"Govt were warned of a looming #BushfireCrisis 1 year ago, yet Libs/Nats buried the “risk management” report Scott Morri…",1,0.8856951,0.11352818,Disaster
+13406,collapsed,,"#Auspol If our pathetic Govt moves vs Coal, they will be collapsed by their Masters, #ArsonistMineralCouncil. Govt… https://t.co/L9W6o9V0M4",0,0.2697742,0.713388,NOT a Disaster
+13410,collapsed,Earth,"Guys, relax! Players have always collapsed on court due to bushfire smoke inhalation. #AusOpen #AustraliaBushfires https://…",1,0.88326424,0.11327266,Disaster
+13413,collapsed,"Melbourne, Australia","Guys, relax! Players have always collapsed on court due to bushfire smoke inhalation. #AusOpen #AustraliaBushfires",1,0.88326424,0.11327266,Disaster
+13487,collided,"Paris, Cannes, France",Sgt. David Edward Lloyd. One of THE FEW. https://t.co/njHwA4c6jd Killed when he collided with another Spitfire over Hayes. He…,1,0.8677645,0.1452023,Disaster
+13513,collided,Tasmania.Italy.Brussels.London,Sgt. David Edward Lloyd. One of THE FEW. https://t.co/njHwA4c6jd Killed when he collided with another Spitfire over… https://t.co/FPKVMUZJqb,1,0.8686232,0.143679,Disaster
+13610,collision,Ireland,"8.30am Castlebar - two vehicle collision at the jnctn of Main St &amp; Market St, Parsons Corner. AVOID driving up from… https://t.co/grLsqCarDG",1,0.8886866,0.108187504,Disaster
+13725,crashed,,Apparently the plane crashed into the missile which was fired by Iranian regime. But Qasem Soleimani car didn’t crash into th…,1,0.9017276,0.09080152,Disaster
+13906,cyclone,Darug country,"Yep, not just in bushfire prone areas either https://t.co/K4lbCFavdY",1,0.84689975,0.14515981,Disaster
+13937,damage,,"Indonesia: Jakarta’s flood costs will increase by up to 400% by 2050, research shows - In a recently published study, my…",1,0.8923738,0.10072156,Disaster
+13945,damage,,Residents of Conjola Park in NSW return to survey the damage after bushfire. #abc730 #AustralianBushfiresDisaster…,1,0.9183974,0.079088576,Disaster
+13953,damage,i was over there on the bench,Have spent the last couple of days in the tiny communities devastated by the megablaze on the NSW/Vic border. The damage…,1,0.92001694,0.08299986,Disaster
+13976,damage,"Hyderabad, India","Idk if it'll backfire (all the damage that was going to happen has happened *to her*. Donation refunds,… https://t.co/FCAhM25BpM",0,0.21258497,0.7692645,NOT a Disaster
+13977,damage,"Köln, Deutschland","While this regime exists, there will be nothing but misery and death. If the IRGC are not shooting at the people, floods…",1,0.9162277,0.085426874,Disaster
+13983,damage,,Ashfall can do damage to electronic equipment. Damaged electronic equipment can start a fire. I hope this helps. https://t.c…,1,0.7574458,0.2092568,Disaster
+14039,danger,Canberra,"Can anyone believe the cheek of calling a bushfires inquiry?! For g sake, the recommendations of the…",1,0.79897696,0.1887966,Disaster
+14149,death,Malaysia,"australia is dropping down food from helicopters for their wildlife. due to the raging bushfires, many of the animals…",1,0.87581897,0.11478539,Disaster
+14209,deaths,exoneit,BRUUHH IKRRR I DONT WANT MORE DEATHS 😭😭😭😭 ALSO YOU SHOULD ALSO TRY WATCHING DR. STONE OR FIRE FORCE IT’S ALSO NICE,0,0.23160355,0.72780687,NOT a Disaster
+14235,deaths,"Central Coast, Australia",What we don't know is the amount of deaths &amp; illnesses due to the fires &amp; smoke.,1,0.79638076,0.18476985,Disaster
+14254,debris,,So the entire house almost caught on fire... Warning to those that have debris around the water heater. https://t.co/…,1,0.8444604,0.1528875,Disaster
+14267,debris,"Georgia, USA",The sweet relief of rain after bushfires threaten disaster for our rivers Fire debris flowing into the Murray-Darling Basin w…,1,0.8942684,0.098470256,Disaster
+14271,debris,,Here is another constructive idea for the Government – Make sure that people who have lost their homes in the bushfires a…,1,0.8772906,0.12250269,Disaster
+14314,deluge,"Rosscarbery, Co. Cork","It’s weird after deluge &amp; driving wind, now it’s windy &amp; cold. Time out to light the fire &amp; warm up https://t.co/91rXQAVeUC",0,0.26347288,0.72426766,NOT a Disaster
+14320,deluge,,(Data ∩ Water) Terms_final_final * Lake * Stream * Flow * Storm™ * Cloud * Fog * Pipeline * Firehose * Hydrate * Filter * C…,1,0.78249705,0.19554877,Disaster
+14324,deluge,"Russell Island, Qld Australia","A sudden deluge of rain could fall in bushfire-ravaged parts of New South Wales this weekend, if forecasts prove correc…",1,0.8952415,0.10043032,Disaster
+14325,deluge,,A sudden deluge of rain could fall in bushfire-ravaged parts of New South Wales this weekend. https://t.co/5FjxKKZ3nN #NSW…,1,0.8917532,0.10390851,Disaster
+14331,deluge,,Online fact-checkers confront deluge of bushfire misinformation https://t.co/ZxSaPDkAia via,1,0.8879952,0.106162034,Disaster
+14345,deluge,,"Forecasters are saying there’s “a lot of rain to go round in the next eight days”, with parts of bushfire-ravaged area…",1,0.9151818,0.085368626,Disaster
+14351,deluge,"Perth, Western Australia",Online fact-checkers confront deluge of bushfire misinformation https://t.co/4HYGuIrSKH,1,0.8960622,0.09935491,Disaster
+14352,deluge,Torreón 🇲🇽,"Venice’s worst flood happened in 1966. At the time, experts thought the flood was a once-in-800 year event. November’s flood…",1,0.913218,0.084612556,Disaster
+14369,deluge,"Perth, Western Australia","Forecasters are saying there’s “a lot of rain to go round in the next eight days”, with parts of bushfire-ravaged a… https://t.co/8jYY7W5vuM",1,0.90783197,0.09088109,Disaster
+14543,demolition,Port Harcourt,#MorningCrossfire: Demolition Of Buildings For Flyover Construction . The land use Act states the method for compe… https://t.co/HFe5CNy5JN,1,0.7394765,0.24208727,Disaster
+14544,demolition,Port Harcourt,#MorningCrossfire: Demolition Of Buildings For Flyover Construction . Mobil filling station at garrison rejected t… https://t.co/eHoKcVWdRe,1,0.84421283,0.14383303,Disaster
+14772,derailment,"Washington, DC","38 years ago today, #DCsBravest battled a 4 alarm fire overnight. The following day, they responded to the twin tragedies of…",1,0.77086157,0.22814004,Disaster
+14839,desolation,icon: @michfoolery,"some of the other songs in the album are just vry tma, like Lighting Myself on Fire? just rings of the desolation,… https://t.co/GR9fUhLHxe",0,0.25241336,0.7268325,NOT a Disaster
+14902,destroy,"Toronto, Ontario",trying to destroy mk ultra 2 by making the us government think that australia still exists after the fire,1,0.7433163,0.23519063,Disaster
+14940,destroyed,Island of the Gods & all too much plastic,"The bee industry estimates about 10,000 hives have been destroyed by bushfires across Australia. The combined effec… https://t.co/94U6ZrA9zP",1,0.843725,0.13811517,Disaster
+14944,destroyed,Ërebor,Here is the Mountain's Men led by Ser Gregor Clegane for A Song of Ice and Fire by . I really enjoyed paintin…,0,0.24813108,0.7366859,NOT a Disaster
+14964,destroyed,,Government set to revise total number of hectares destroyed during bushfire season to 17 million after millions of hectar…,1,0.91058856,0.089154646,Disaster
+14985,destruction,"München, Bayern",Wildfire destroyes Australia The view of the Blue Mountains National Park in New South Wales shows the path of destruct…,1,0.894709,0.10558494,Disaster
+14987,destruction,,"This is the definition of a Holocaust “destruction or slaughter on a mass scale, especially caused by fire or nucle… https://t.co/wOg9tLK8N3",1,0.7917541,0.19456936,Disaster
+15057,detonate,The internet or the gym,"My bard Ray: Detonate necklace of fireballs (2e) while in white dragon's mouth. ""Gonna die anyway, s… https://t.co/9TnYFSVlsO",0,0.20303467,0.7621949,NOT a Disaster
+15086,devastated,,Our country has been devastated by bushfires &amp; we need your help! 🔥 So that's why we're proud to announce The Down-Unde…,1,0.843457,0.1354589,Disaster
+15106,devastated,おもちゃ屋さん,The bushfire crisis has devastated communities across the nation and the scenes of loss are heartbreaking. We’ve heard…,1,0.9149323,0.08829965,Disaster
+15109,devastation,Chile,"A side by side comparison of the fire devastation on Kangaroo Island, Australia. 😢😢 https://t.co/rdYBeW8twU",1,0.916434,0.082932435,Disaster
+15111,devastation,we the purple,"A side by side comparison of the fire devastation on Kangaroo Island, Australia. 😢😢 https://t.co/dqj307GSxq",1,0.916434,0.082932435,Disaster
+15120,devastation,,Scorched earth devastation on #KangarooIsland 💔 #bushfirecrisis #Australia …,1,0.9211479,0.07661195,Disaster
+15124,devastation,,"A side by side comparison of the fire devastation on Kangaroo Island, Australia. 😢😢 https://t.co/2pfYF2Fslo",1,0.916434,0.082932435,Disaster
+15125,devastation,Melbourne,Can only hope the LNP MPs are watching #abc730 showing the devastation of the drought and fires on primary producer… https://t.co/5palZGt5i9,1,0.7679762,0.2294836,Disaster
+15128,devastation,"Mumbai, India","A side by side comparison of the fire devastation on Kangaroo Island, Australia. 😢😢 https://t.co/xCqB624mxL",1,0.916434,0.082932435,Disaster
+15130,devastation,"Canberra, Australia","Along the border of NSW and Victoria, where three fires have now joined together, communities are trying to deal with the devas…",1,0.9199202,0.085021354,Disaster
+15158,disaster,,Suncorp and IAG temporarily stop selling insurance in fire-affected areas of Victoria and NSW Embargoes are a common indust…,1,0.77337706,0.22102098,Disaster
+15165,disaster,"Perth, Australia",So announced a Royal Commission on bushfires. Maybe - and hear me out here - his government could have just…,1,0.8161824,0.17094919,Disaster
+15168,disaster,"London, England","The tragic and horrific bushfires in Australia have, once again, been hijacked by the extreme eco-evangelists who ascr…",1,0.9083301,0.08988705,Disaster
+15194,disaster,Lagos,"Australia, our hearts are with you. To join us in supporting the bushfire relief efforts, visit: https://t.co/5Jz30ETqoR https:/…",1,0.8157809,0.16094398,Disaster
+15197,displaced,An Australian increasingly more concerned about democracy in Australia.,The NSW government has launched a scheme to open vacant holiday homes to residents displaced in the state's bushfire crisis. h…,1,0.85748255,0.13848668,Disaster
+15207,displaced,Israel 🇮🇱,"Indonesia Devastating Floods: 66 People Have Died. More Than 36,000 Displaced. In the past, Israel offered humanita… https://t.co/eWxdGoj3Q8",1,0.91774243,0.078701064,Disaster
+15220,displaced,,"Wildlife officials have dropped more than 2 tons of food, mostly carrots and sweet potatoes, to help animals displaced by fires in…",1,0.90622574,0.09448515,Disaster
+15233,displaced,,"Indonesia Devastating Floods: 66 People Have Died. More Than 36,000 Displaced. In the past, Israel offered humanitaria…",1,0.916117,0.07999059,Disaster
+15258,displaced,,Nearby nonprofit housing displaced families from Alpine Motel Apartments fire - FOX5 Las Vegas https://t.co/bWXjxE6zsH #…,1,0.86283153,0.13020203,Disaster
+15267,drought,Sydney,The combination of drought and fire is having a devastating impact on honey production. #abc730 #bees https://t.co…,1,0.7150335,0.24028696,Disaster
+15268,drought,"Padstow, Sydney","Bit sad considering water restrictions, drought and bushfires in parts of the country, surely… https://t.co/cEApfsFN96",1,0.9123561,0.08663667,Disaster
+15292,drought,"Kingsport, Tennessee","1/ In #Braidwood farmers already crippled by drought have lost 100s of kilometres of fencing in #AustraliaFires. Today, a…",1,0.8449224,0.15841378,Disaster
+15298,drought,,2012 Carbon Tax Cost = $4.4b/yr Cost of: 2017-Now Drought $12b 2012-Now Cyclones $13.7b 2019-20 Bushfires $5b 2012… https://t.co/A8OUijwjLp,1,0.8490364,0.13916959,Disaster
+15301,drought,"Torrevieja,ALICANTE,SPAIN",Huge RAIN BOMB set to hit drought-ravaged Australia gives hope to exhausted firefighters https://t.co/ESshqmDM1e,1,0.928555,0.0725159,Disaster
+15304,drought,"Lower Hunter, Australia","""Vegetable prices may soar 50 per cent as growers face perfect storm of bushfires and drought"" …",1,0.78418076,0.20545988,Disaster
+15308,drought,Upper Hunter Valley,Vegetable prices may soar 50 per cent as growers face perfect storm of bushfires and drought - ABC News https://t.co/g68x5SMclg,1,0.83588505,0.15491462,Disaster
+15310,drought,USA and Global,🔥One Of The Many Outcomes to come from #AustralianBushfires #AustraliaFires #Drought 🔥Vegetable prices may soar 50… https://t.co/hLJMEvXvcx,1,0.8894658,0.10111248,Disaster
+15311,drought,,"It is not the best measure of “climate change”. Drought, flash floods etc cannot be assessed with ocean heat content. B…",1,0.83218294,0.14776157,Disaster
+15317,drought,"Sydney, Australia","A big day of news, plus some soaking rain for drought and bushfire-affected areas in our weather forecast... join us tonig…",1,0.847181,0.13536374,Disaster
+15331,drown,Shropshire,"John sets traps around the motorway hard-shoulder to catch rabbits, which he then cooks on his camp fire. He’s created his…",0,0.2540869,0.7319198,NOT a Disaster
+15581,dust-storm,,As seen by yesterday's #SNPP #OMPS aerosol index the #AustraliaFires smoke is now south of western Australia (black circl…,1,0.8178965,0.16630138,Disaster
+15582,dust-storm,Kaliningrad,-Desert Locusts -Floods -Dust storm -Bats If these aren't signs that we are heading to murky waters am not sure wh… https://t.co/xa7Qc9pZqZ,1,0.87679523,0.109375454,Disaster
+15606,earthquake,Cagayan De Oro City,Puerto Rico - Earthquake 🌋 South Korea - Bush fire 🔥 Mexico volcano erupting 🌋 Guatemala volcano is still erupting 🌋 In…,1,0.91231203,0.0825215,Disaster
+15619,earthquake,Namkanda,Puerto Rico - Earthquake 🌋 South Korea - Bush fire 🔥 Mexico volcano erupting 🌋 Guatemala volcano is still erupting 🌋 Ind…,1,0.9125296,0.08189933,Disaster
+15738,emergency,"Basse-Normandie, France",#AUSTRALIA FIRES UPDATE: Our Animal Rescue Team continues to look for signs of life on Kangaroo Island &amp; provide care for su…,1,0.91638315,0.08468817,Disaster
+15765,emergency,philippines,"Wildfire Rips Along South Korea's Eastern Coast, Prompting National Emergency https://t.co/dnhqAV70ym",1,0.9315106,0.07122894,Disaster
+15804,emergency,"Palma de Mallorca, España",Help rescue and care for the innocent victims of the fires! Millions of animals are dying from the Australian wildf… https://t.co/Rsp6NOFC8R,1,0.9185019,0.08425408,Disaster
+15806,emergency-plan,,I respectfully put it to you that this bushfire emergency has put more jobs at risk than a sensible order…,1,0.8952331,0.10147372,Disaster
+15831,emergency-services,"Australia,Melbourne, Victoria",Weather Update: Heavy rain and the potential dangerous impacts to fire grounds in NSW and East Victoria. Video is current at…,1,0.9014973,0.09349651,Disaster
+15833,emergency-services,SYD / YYZ,"In response to the current #bushfirecrisis, is extending and increasing emergency veterinary services for anima…",1,0.8893004,0.113331854,Disaster
+15834,emergency-services,"Melbourne, Australia",West-wimmera - Casterton-Apsley Road (C211) - Road Closed - Emergency Services Access Only - Fire https://t.co/p8K2mtzpcm,1,0.86288863,0.12983337,Disaster
+15838,emergency-services,Belfast northern ireland,Emergency services are battening to save homes from #StormBrendan here in Carrickfergus. The water continues to flood street…,1,0.90505916,0.09687385,Disaster
+15875,emergency-services,Asia Pacific,Our thoughts are with everyone affected by the devastating #bushfires. Maddocks has pledged $40K to the #VictorianBush…,1,0.88392746,0.11360599,Disaster
+15889,emergency-services,"Melbourne, Victoria",Very smokey in #Melbourne today. Destruction and impact of the #bushfiresAustralia seems unrelenting. Deep gratitud… https://t.co/ouDnrP5hpK,1,0.9152224,0.08534891,Disaster
+15891,emergency-services,"Melbourne, Victoria",The Bushfire case support program can provide free information and advice for people impacted by the Gippsland and North E…,1,0.8853034,0.11337301,Disaster
+15898,engulfed,"Fremont Street, Des Moines",DMRegister: RT TDavisDMR: A man is believed to have ended a daylong standoff with police by setting fire to his own… https://t.co/kF9xI1DQSR,1,0.80337924,0.20496802,Disaster
+15899,engulfed,"Fremont Street, Des Moines","DMRegister: Over the course of the 12-hour standoff with law enforcement, police say the man ""fired multiple rounds… https://t.co/DnXUWRkwVa",1,0.81351334,0.18405107,Disaster
+15925,engulfed,"Phoenix, AZ",A young woman was killed in a fire that engulfed at least one suburban Phoenix apartment early this morning. https://t.co/hoaneu62xW,1,0.91513354,0.08915761,Disaster
+15937,engulfed,"Sydney, Australia",The response to Australia’s fire crisis has some similarity to what engulfed America when Trump was elected. People… https://t.co/5flFcxUdIs,1,0.72789556,0.25045347,Disaster
+15949,engulfed,Warwick England,To all out there .........What's the latest #Jokhang Temple fire Engulfed in flames two years ago on 17 February 2018 since then nothing,1,0.9121376,0.09097336,Disaster
+15951,engulfed,Warwick England,#Jokhang Temple fire A number of videos emerged on social media showing the temple being engulfed in flames two years a…,1,0.8955307,0.10372632,Disaster
+15955,engulfed,Canada,"The plane doesn’t crash immediately, but is set on fire by the missile explosion. We don't know the precise flig…",1,0.8712659,0.12045052,Disaster
+15985,epicentre,Mooloolaba,"Cudgewa in the epicentre of the fires near Corryong, all pasture paddocks burnt , houses burnt , stock losses , cattle now be…",1,0.9098775,0.09312121,Disaster
+16010,epicentre,,"Cudgewa in the epicentre of the fires near Corryong, all pasture paddocks burnt , houses burnt , stock losses , cat… https://t.co/Q7Tcsn6jyR",1,0.9195473,0.082744524,Disaster
+16018,evacuate,,"Yes, we’ve had fires. But never on this scale. We’ve never had fires that wiped out one BILLION animals. We’ve never…",1,0.84108734,0.15332304,Disaster
+16046,evacuate,🇺🇸 🇺🇸 🇺🇸,"1️⃣4️⃣9️⃣ AUSTRALIA URGES MASS EVACUATION 🔥 Australia urging some 240,000 citizens to evacuate. 🔥 Seems “bushfires” may b…",1,0.9222839,0.07858824,Disaster
+16053,evacuate,Indonesia,INDONESIA #Jakarta city govt spent more money on Formula E electric car race than flood prevention efforts as death toll from…,1,0.84331656,0.14466402,Disaster
+16062,evacuated,,No no no Mallacoota was NOT evacuated by defense on New Years Eve. Morrison was partying &amp; watching fireworks &amp; pol…,1,0.903335,0.091695346,Disaster
+16066,evacuated,Southern hemisphere,"As fire crews battle to bring bushfires raging across the western end of Kangaroo Island under control, a firefighter r…",1,0.89390486,0.106392205,Disaster
+16135,explode,,if you ever feel that a fire emblem character is too cool just know that their mind would completely explode if they saw li…,0,0.17307477,0.79850525,NOT a Disaster
+16175,explosion,,"There has been an explosion at a chemical factory in Zhuhai, South China's Guangdong. As of 3:00 pm Tuesday, the fire has not…",1,0.91119117,0.08972331,Disaster
+16183,explosion,"Perak, Malaysia",2020 might be worse than 2019. • WW3 threats. • Taal Volcano explosion after how many years. • Australia fire. • Indonesi…,1,0.9162794,0.07798239,Disaster
+16203,explosion,,"Huge explosion and fire in a chemical plant in Zhuhai today. The fire was not out by 3pm, People’s Daily reported, citing a vi…",1,0.91820127,0.08287557,Disaster
+16285,famine,Nairobi,"Each financial year money is allocated for disaster management, but we still raise paybills during famine and floods #UhuruAddress",1,0.84657675,0.14637133,Disaster
+16295,famine,,This world is ending Earthquakes Floods Half of Australia on fire Locusts in Somalia Ethiopia &amp; Kenya Trump about to star…,1,0.9229857,0.07369306,Disaster
+16380,fatalities,"Valhalla, Maui & Geneva","Since 2020 began, Jakarta, Indonesia has experienced a lot of flooding that has caused many fatalities. NASA researchers an…",1,0.8970832,0.09604714,Disaster
+16395,fatalities,"Phoenix, South Africa","#sapsKZN Yesterday DBN #SAPS #SAR along with eThekwini Fire and Rescue, Transnet National Port Authority Fire and Resc…",1,0.84148335,0.15100221,Disaster
+16400,fatalities,Vancouver (One Of Them),"Snappy combos that reward rapid fire inputs, with mechanics that are accessible enough to really ge… https://t.co/criJfStXNq",0,0.2226258,0.7291822,NOT a Disaster
+16402,fatalities,,"2009 bushfires in Victoria: - 173 fatalities - Labor Govt &amp; Kevin Rudd - Caused by arson, power lines, lightning -… https://t.co/pQSo7nVFuk",1,0.92257285,0.07748101,Disaster
+16404,fatalities,"Pretoria, South Africa","#sapsKZN Yesterday DBN #SAPS #SAR along with eThekwini Fire and Rescue, Transnet National Port Authority Fire and R… https://t.co/NPROuhKMdr",1,0.8698563,0.12837699,Disaster
+16420,fatalities,"Melbourne, Victoria",Melbourne city is shrouded Almost 1 billion animal fatalities. Humans suck! #AustralianFires https://t.co/s2UERSJ8dv,1,0.9029952,0.0909353,Disaster
+16559,fire,,LOOK: Volunteers from Manila District Fire and Rescue saved not just residents but also dogs in Agoncillo town. They are plann…,1,0.86066425,0.14017428,Disaster
+16563,fire,,"Sorry bro, but when I fire up my Xbox Series X and plug in my 4TB hard drive it will… https://t.co/qcWh88MzGT",0,0.15412022,0.8223092,NOT a Disaster
+16564,fire,"Melbourne, Victoria",u should think about the consequence of u touching a fire in the darkened room https://t.co/BTr4LIvgSJ,0,0.2633181,0.7095353,NOT a Disaster
+16565,fire,SB19 Hearts,Now the fire in me has started you'll be in my zone A'TIN: #ALABTopSpotONMYX #PUSHAwardsATIN… https://t.co/2e6dPQ9fNN,0,0.19371265,0.78795683,NOT a Disaster
+16566,fire,"Planet Earth, Galaxy",I was visiting a fire affected community in the high country today when I spotted a Wedge Tail Eagle circling high… https://t.co/9lTGVTl7Bj,1,0.8613801,0.13913077,Disaster
+16567,fire,An Australian increasingly more concerned about democracy in Australia.,Rain is expected to fall across NSW this week particularly along the Great Dividing Range which has experienced a lot of fire…,1,0.8999841,0.09844034,Disaster
+16570,fire,Vancouver B.C. Canada,"Good morning #Lebanon ! We are back! Screens are split again, tires on fire, Lebanese flags are up, roads are blocked all…",1,0.81404597,0.17692968,Disaster
+16572,fire,,Baby wallabies find sanctuary after being rescued from Australia fire. https://t.co/VkmmkTEkGj,1,0.8352646,0.15057684,Disaster
+16573,fire,johannesburg,Stand a chance to WIN 1 of 3 Johnnie Walker Song of Fire OR 1 of 3 Song of Ice bottles. RETWEET this Tweet to personalise you…,0,0.1633534,0.82364714,NOT a Disaster
+16574,fire,Indonesia | UTC+7,"reading about australian bushfire smoke reminded me of how we, too, had similarly horrendous condition for months d… https://t.co/PZesZ7Xkbz",1,0.8641623,0.11749396,Disaster
+16575,fire,Australia,Thinning forests will make fire conditions worse. But hey why listen to the experts when there is a… https://t.co/eCnXUUTEOU,1,0.79784596,0.19737236,Disaster
+16578,fire,Right here!,Fire Emblem Warriors 1 week full game trial for Nintendo Switch Online members available in Japan via /r/NintendoSw… https://t.co/7ihSFW2EF5,0,0.23132084,0.7516524,NOT a Disaster
+16580,fire,Nottinghamshire,On fire this morning Kenty,1,0.83319175,0.17062967,Disaster
+16582,fire,"Santiago, Chile",#AhoraSuena After The Fire - Der Kommissar en LA RETRO RADIO. Conéctate con LA Radio 80s de la Web en https://t.co/ULMSnHuxgQ,1,0.7697404,0.23105286,Disaster
+16585,fire,drawings:,i think i was a pyromaniac in a previous life cause i just... love fire?,0,0.20825158,0.76406085,NOT a Disaster
+16586,fire,,14th January 2020- Azad’s hearing. Judge Kamini Lau. ON FIRE. We need more judges like this. #azadiforazad https://t.co/r…,0,0.26515535,0.7103703,NOT a Disaster
+16587,fire,,That Lebron James documentary on Netflix in like 10 years finna be fire as hell boy,0,0.21675904,0.76810515,NOT a Disaster
+16592,fire,Philippines,"The Pacific Ring of Fire is now active! 😭 In a matter of 24 hours, 3 volcanoes within Pacific Ring of Fire were erupted:…",1,0.8794096,0.11546322,Disaster
+16593,fire,"Nashville, TN",i want some fire ass head.😭,0,0.16410303,0.8000714,NOT a Disaster
+16595,fire,Bermuda,"""BFRS: At 6:27pm, BFRS received call reporting a house boat on fire in Dockyard. Responded with 6 appliances &amp; 14 f… https://t.co/D9WoGTjAY9",1,0.9201947,0.084035486,Disaster
+16603,fire,-sniper- Food Tech UB '15,#Yummy out now on YouTube! Thank you for a fire new song. What do you guys think? Link below for full vid…,0,0.17672148,0.8082315,NOT a Disaster
+16609,fire,London,the taps on my girlfriend's shower are so sensitive – drunkenly lurching from fire to ice – but i am finally starting to conqu…,0,0.17937317,0.782146,NOT a Disaster
+16610,fire,"St Petersburg, Florida","#Successful people have more of an #Attitude of 'ready, fire, aim' https://t.co/4EetZLIK55 #GaryLoper",0,0.21367761,0.7469282,NOT a Disaster
+16613,fire,"Nairobi, Kenya",1 &amp; 3 yes of course why not. Fire 🔥🔥🔥🔥,0,0.19358319,0.77484065,NOT a Disaster
+16617,fire,Sydney,"Advice - Dunns Road (Snowy Valleys LGA) Fire activity is easing across the fireground. If you are in the Tumbarumba area, monit…",1,0.826434,0.16731013,Disaster
+16621,fire-truck,India,"Modi Shah's Gundas set fire to truck loaded with plastic chairs in Mangaluru, that was parked in the ground after public…",1,0.90905374,0.09804098,Disaster
+16623,fire-truck,,ABS-CBN’s fire truck and safety department are one of the responders on the fire happening at GMA-7.,1,0.894181,0.1049119,Disaster
+16625,fire-truck,melbourne,...why is there a fire truck outside of my house,1,0.7165628,0.2746321,Disaster
+16626,fire-truck,,Fire Engine Truck Birthday Cake ... https://t.co/QcUdjv8uhZ #cake #cakedecorating https://t.co/y0dwRMk1Nt,0,0.19832006,0.7594641,NOT a Disaster
+16627,fire-truck,Shamsabad agra uttar Pradesh i,Watch “Fire Truck of the Future Gyroscopic Vehicle| आग बुझाने की Technology” on YouTube https://t.co/SdPmfbHYAq https://t.co/qJi8qDW18K,0,0.2432699,0.71845955,NOT a Disaster
+16628,fire-truck,🔞,Things I don’t like about life . Me . And the fact that fire truck isn’t a song on K-12,0,0.19902773,0.79253507,NOT a Disaster
+16631,fire-truck,134340/ neo city,if jungwoo was there during fire truck era he would’ve owned that shit https://t.co/JoiMFvTn01,0,0.25286347,0.7118666,NOT a Disaster
+16633,fire-truck,Atlanta,"Driver killed after truck hits tree, catches fire in Lincoln County - WLBT: https://t.co/Bv79Bv0LUN",1,0.92883635,0.07067081,Disaster
+16634,fire-truck,United Kingdom,A Scania L-series low-entry fire truck for city rescues https://t.co/r5LFCpVDwR #ScaniaTrucks,1,0.8356399,0.15575185,Disaster
+16635,fire-truck,Yorkshire and The Humber,A Scania L-series low-entry fire truck for city rescues https://t.co/r5LFCpVDwR #ScaniaTrucks,1,0.8356399,0.15575185,Disaster
+16637,fire-truck,KGW-TV,"A hybrid Concept Fire Truck, built by the Austrian company, Rosenbauer, gets hands on touches by members of . So…",0,0.2826653,0.70174825,NOT a Disaster
+16639,fire-truck,"Pretoria, South Africa","My neighbour asked me to call a fire truck, so I called our other neighbour who drives a Kuga now both of them are not talki…",0,0.21740566,0.7779741,NOT a Disaster
+16642,fire-truck,,i like fire trucks and moster truck,0,0.23920928,0.734309,NOT a Disaster
+16643,fire-truck,"Pretoria, South Africa","My neighbour asked me to call a fire truck, so I called our other neighbour who drives a Kuga now both of them are… https://t.co/yX9E2j6asz",0,0.2207784,0.7701451,NOT a Disaster
+16654,first-responders,"San Jose, CA",Heartbreaking habitat devastation in Australia. Grateful for all firefighters and first responders helping! (Via by Oak…,1,0.89050114,0.101290286,Disaster
+16656,first-responders,online,#WatchThis: These rescued baby wallabies were named after the first responders and celebrities contributing to fire… https://t.co/byqxexvl0E,1,0.8965395,0.10329499,Disaster
+16671,first-responders,,Meet Buddy - the German Shepherd who led first-responders to the fire that threatened his hoomans home &amp; lives. Dogs…,1,0.7795166,0.20014963,Disaster
+16672,first-responders,,Ventura County Fire Department Captain Stan Ziegler: “Hundreds of first responders responded initially to the scene.” https://…,1,0.8964362,0.11097168,Disaster
+16680,first-responders,"Melbourne, Australia",In #Australia everyone knows someone who has been affected by the #bushfires &amp; we all want to do our part to help.… https://t.co/zztybwyGj1,1,0.88882935,0.114805646,Disaster
+16691,first-responders,"Midway Point, Tasmania","#auspol felt sick when i read this: ""first responders tackling #bushfires advised to kill baby #kangaroos and #koalas w…",1,0.88776606,0.10156865,Disaster
+16700,flames,,"Communal violence in Telangana's Bhainsa: -Stone pelting -Vehicles set on fire -Now, media reported 18 houses set on fire…",1,0.9253233,0.07713085,Disaster
+16707,flames,España,RT IncendiosES: Australia 🇦🇺 fires: What's being done to fight the flames? https://t.co/4jE4xzYQSL… https://t.co/tptZ8mgH23,1,0.8887722,0.11385708,Disaster
+16709,flames,"Bangkok, Thailand","Amazing to see a huge colony of bats flying across Batemans Bay, away from bushfire ravaged forest towards Cullendu… https://t.co/KBBeKmFyLW",1,0.7928538,0.18211704,Disaster
+16713,flames,,Volunteer firefighter in a tiny village in southeastern Australia - among the places hardest hit by the country's devastating wildf…,1,0.9061622,0.09504779,Disaster
+16806,flood,"Glounthaune,Cork-Malaga,Spain","When Cork decides to build the #CorkTidalBarrier flood warnings from tidal flooding will become a thing of the past ""Are…",1,0.8105358,0.17732851,Disaster
+16807,flood,"UK
+
+",To those of us that are having a quiet night in on the 31st. How about we flood twitter with our People’s Vote March pict…,0,0.18913314,0.79362386,NOT a Disaster
+16811,flood,UK,Bristol Road Flood Protection Monitoring https://t.co/odnT8pflQ9,1,0.8559867,0.13257504,Disaster
+16813,flood,"Birmingham, West Midlands",Flood Protection Monitoring on 14 Jan 2020 08:50 https://t.co/19o57dWROj,1,0.8351406,0.15111752,Disaster
+16814,flood,"Leeds, UK",He's already done ten minutes on flood risk,1,0.8912841,0.10570413,Disaster
+16815,flood,lagos,"When you open the door to self pity , to blame, all kinds of negative thoughts will flood your mind",0,0.1685897,0.7867374,NOT a Disaster
+16816,flood,"Arizona, USA",Explain how this works. You demand the minimum wage for all workers be $15.00/hour! Then you flood the labor market with…,0,0.26030758,0.70660764,NOT a Disaster
+16817,flood,United Kingdom,Flood Alert: The Suffolk and Essex coast from Felixstowe to Clacton 08:18 14 January https://t.co/vPLmFBDWAW,1,0.91569144,0.085460015,Disaster
+16819,flood,"Cardiff, Wales","The New York Times' Editorial Board wants to hear from you about who you endorse for President. Let's flood this one, #Ya…",0,0.20552132,0.7764186,NOT a Disaster
+16820,flood,United Kingdom,Flood Alert: The Essex coast from Clacton to and including 08:26 14 January https://t.co/yTfpxd6p4z,1,0.9125297,0.08746552,Disaster
+16821,flood,"Columbus, MS",NWS Alert&gt; Small Stream Flood Advisory for Poor Drainage Areas for N Union County In NE Mississippi. S Tippah Count… https://t.co/IBeIHPSqUa,1,0.8855326,0.11421069,Disaster
+16822,flood,Mississippi,NWS Alert&gt; Small Stream Flood Advisory for Poor Drainage Areas for N Union County In NE Mississippi. S Tippah Count… https://t.co/103TwlZagN,1,0.8855326,0.11421069,Disaster
+16823,flood,Mississippi,NWS Alert&gt; Small Stream Flood Advisory for Poor Drainage Areas for N Union County In NE Mississippi. S Tippah Count… https://t.co/2XoLUbYwbL,1,0.8855326,0.11421069,Disaster
+16824,flood,USA,NWS Alert&gt; Small Stream Flood Advisory for Poor Drainage Areas for N Union County In NE Mississippi. S Tippah Count… https://t.co/NzfUgq0Zee,1,0.8855326,0.11421069,Disaster
+16825,flood,"Columbus, MS",NWS Alert&gt; Small Stream Flood Advisory for Poor Drainage Areas for N Union County In NE Mississippi. S Tippah Count… https://t.co/ShgH4yjn8I,1,0.8855326,0.11421069,Disaster
+16827,flood,Калининград,An F-16 jet in a flooded hangar at Hatzor Airbase in Israel near Ashdod. Eight F-16 fighter jets were damaged during the f…,1,0.9245122,0.076731116,Disaster
+16828,flood,,Katana Kami: A Way of the Samurai new details and screenshots on swordsmith cycle and Flood of Customers modes https://t…,0,0.19159108,0.7858752,NOT a Disaster
+16829,flood,"Melbourne, Australia","'Alice Bishop’s short story collection, A Constant Hum, tells fictional stories of the Black Saturday bushfires ... Alice…",1,0.8813405,0.1205744,Disaster
+16830,flood,,DEV - Flood Warning until 1/14 1:30AM CST for Attala https://t.co/KWaRCnZfik,1,0.89931434,0.09906949,Disaster
+16833,flood,,everyone please flood LYSN with lots of support messages 🥺🥺 I didn’t expect to wake up with more hate messages from kfans…,0,0.21062823,0.7947609,NOT a Disaster
+16834,flood,United States,SHAME ON CBN for Helping To Flood Texas With Refugees! The World Relief Corporation (WR) is a phony un-elected non-profit tha…,1,0.7537325,0.21298914,Disaster
+16835,flood,Islamic Republic of Iran,Iran is in a real chaos these days and bad news comes every day todays: Flood in Sistan &amp; Baluchestan And as usual… https://t.co/LJBjriY99k,1,0.8838215,0.11744821,Disaster
+16837,flood,"Lytham , Lytham St Annes",UK: Muslim lawyer for ISIS bride asks his followers to flood radio show’s phone lines to avoid hard questions. This it…,0,0.268247,0.73063844,NOT a Disaster
+16838,flood,,Please watch this and flood the comment section with #KaoRhys! Ipakita ang excitement sa #ToChiko at #HesIntoHer! Link:…,0,0.20268884,0.7739633,NOT a Disaster
+16839,flood,Malaysia,"😭😭😭😭😭 Just looking at this, our tears can flood the whole KL maybe😭😭😭😭😭 #새로운_엑스원_결성지지 #bring_back_NEWX1 https://t.co/G70Kn7ks…",0,0.1634938,0.8080535,NOT a Disaster
+16840,flood,"Memphis, Tennessee",has Issued a Small Stream Flood Advisory. https://t.co/t9pG7m34lY #arwx #mowx #mswx #tnwx https://t.co/tIMBMiOAei,1,0.87940025,0.11782383,Disaster
+16842,flood,,"""Tagged you"" ""Mentioned you"" ""Fast replies"" ""Flood messages"" I want that shit",0,0.1797789,0.8048296,NOT a Disaster
+16844,flood,"Nanaimo, B.C.",Flood away! Your posts always bring a much needed smile to my face. ❤️,0,0.1469389,0.81803197,NOT a Disaster
+16846,flood,"San Antonio, TX",BREAKING NEWS: It turns out to be penis inspection MONTH so femboys/traps make sure to FLOOD my dms so I can make… https://t.co/htmntUWEBq,0,0.17557384,0.79455197,NOT a Disaster
+16847,flood,"Mississippi, USA","MEG issues Areal Flood Advisory for Alcorn, Benton, Prentiss, Tippah, Union [MS] till Jan 14, 5:45 AM CST https://t.co/UvSKLsDh0S",1,0.8836438,0.10962528,Disaster
+16848,flood,"Oxford, MS","MEG issues Areal Flood Advisory for Alcorn, Benton, Prentiss, Tippah, Union [MS] till Jan 14, 5:45 AM CST https://t.co/hfkRWBRr9c",1,0.8836438,0.10962528,Disaster
+16849,flood,"Memphis, TN","MEG issues Areal Flood Advisory for Alcorn, Benton, Prentiss, Tippah, Union [MS] till Jan 14, 5:45 AM CST https://t.co/JrxCSv8FRz",1,0.8836438,0.10962528,Disaster
+16850,flood,"Memphis, Tennessee, USA","MEG issues Areal Flood Advisory for Alcorn, Benton, Prentiss, Tippah, Union [MS] till Jan 14, 5:45 AM CST https://t.co/iCFIL3842g",1,0.8836438,0.10962528,Disaster
+16851,flood,Jackson Mississippi,"MEG issues Areal Flood Advisory for Alcorn, Benton, Prentiss, Tippah, Union [MS] till Jan 14, 5:45 AM CST https://t.co/bgdH5ro5nn",1,0.8836438,0.10962528,Disaster
+16852,flood,"Pontianak, Kalimantan Barat.",1 week into 2020: 1. Flood in Jkt 2. Fire in Australia 3. WW3 madness and now... Reynhard Sinaga Damn...2020 needs to ch…,1,0.92852545,0.071701266,Disaster
+16854,flood,"Paris, France","What is slow fashion? Why should you care? How can you get started? Slow Fashion stylist, Jenna Flood AKA the Ironic Mi…",0,0.17174353,0.80307764,NOT a Disaster
+16855,flood,,Sleeping Through The Flood - Sticky Fingers https://t.co/oYSjEw6kmv,0,0.2301415,0.7318715,NOT a Disaster
+16857,flood,"Quezon City, Philippines","Kinda reminds me of the time one guy drove his car into waist-deep flood, then blamed authorities for not informing… https://t.co/DygIbT3NgS",1,0.8540198,0.14880545,Disaster
+16858,flood,"Melbourne, Victoria","What is slow fashion? Why should you care? How can you get started? Slow Fashion stylist, Jenna Flood AKA the Ironi… https://t.co/FkgwfvNsE0",0,0.1758528,0.79683167,NOT a Disaster
+16859,flood,Scotland,New flood warnings for Scotland as Orkney predicted to have highest water levels for 15 years https://t.co/lHup4H4UbN,1,0.86725223,0.13170506,Disaster
+16860,flood,,I told y’all not to type out those words. Prepare for the scamming daddies to flood your dm. - never give out personal i…,0,0.1629965,0.8207372,NOT a Disaster
+16861,flood,,"DEV - Flood Advisory until 1/13 9:44AM EST for Henderson, Buncombe https://t.co/4SLQHGEgba",1,0.874931,0.12296902,Disaster
+16863,flooding,London UK,Flooding Britain with EU Migrants has made the homelessness situation even worse than the a… https://t.co/iTwtglrlw2,1,0.8054493,0.17577286,Disaster
+16864,flooding,Weener,Hobi really flooding my thoughts rn..,0,0.15660396,0.8109056,NOT a Disaster
+16865,flooding,Lothian,Storm Brendan causes severe gales and flooding across parts of Scotland. See more 👉 https://t.co/NRuo1XF03q https://t…,1,0.9058824,0.09149518,Disaster
+16867,flooding,Kenya,Dubai airport flooding: Flights delayed or cancelled https://t.co/0SlPoXqcOa via . If there was ever any do…,1,0.91532904,0.07891099,Disaster
+16869,flooding,,#ALGW nice buys flooding in here. onto the next level 3p next hit 4p before all important #RNS …,1,0.907069,0.0915287,Disaster
+16871,flooding,richmond virginia,Venice just recovered from near-record tides that flooded about 2/3 of the city. Officials linked the flooding to climate chang…,1,0.900709,0.09231348,Disaster
+16872,flooding,"Bronx, NY— Richmond, VA","This rain going dumb, it’s flooding now",1,0.8065902,0.17282698,Disaster
+16875,flooding,,FB is flooding me with LOOOOOTS of Otome game ads. Hahaha! Y tho?? 😅,0,0.19144166,0.7833702,NOT a Disaster
+16876,flooding,England,Venice canals almost run dry two months after severe flooding https://t.co/gquZjgNycd,1,0.8946769,0.10011056,Disaster
+16877,flooding,Europe,"Severe storm, flooding and heavy snowfall strike Hawaii - 22 inches of rain in 24 hours, snowdrifts at least 4 feet deep h…",1,0.9130564,0.0853505,Disaster
+16879,flooding,Queens,2020 so far -Dubai Flooding 12/01 -Taal Volcano Eruption 12/01 -World War III threats -The Royal Drama of Prince Harry and…,1,0.87383825,0.118135914,Disaster
+16880,flooding,Yorkshire,Firefighters from South Yorkshire want dealing with flooding to be an official part of their responsibilites. At th… https://t.co/l1Izv3wefj,1,0.8585332,0.13152887,Disaster
+16885,flooding,🔮,Tears gonna be flooding hitc 😭,1,0.765765,0.21110208,Disaster
+16887,flooding,Manila,"I long forecast a MONSTER ERUPTION by Taal, w/ Flooding aftermath. Experts now affirm this. I feel vindicated.🌞",1,0.89379895,0.096766084,Disaster
+16892,flooding,Abuja,Why Frozen fans are flooding this idyllic Austrian village – https://t.co/zlxDahfEwr https://t.co/UaKJR1voof,1,0.72556144,0.23873568,Disaster
+16895,flooding,,Sorry again for flooding your timeline with non-TWICE related posts. I just really have to do it for people in need. I prom…,0,0.17975526,0.8156592,NOT a Disaster
+16896,flooding,,#stormbrendan is upon us. Here are some of Aspray's top tips if the storm causing flooding to your property: https://t.c…,1,0.8295819,0.14781687,Disaster
+16897,flooding,,VENICE RUNS DRY: Gondolas stranded in mud just two months after severe flooding #venice #gondolas #flooding #beached #…,1,0.92441726,0.07488061,Disaster
+16899,flooding,USA,"In Labadie Missouri, coal ash combined with a rise in extreme flooding is creating a public health scare. : h…",1,0.90916526,0.09021925,Disaster
+16903,flooding,,"Received video from Bukavu, DRC where heavy rain &amp; flooding this weekend has led to 13 people being killed. https://t.co…",1,0.91717,0.079844795,Disaster
+16907,flooding,Earth,"📢 Calling all Lincs, Notts &amp; Derbys flood-hit farmers 🌊 If you had uninsurable damage during the devastating Oct/ Nov…",1,0.83786666,0.1458148,Disaster
+16908,flooding,Ballycastle,"Storm surge from Storm Brendan flooding the harbour on Rathlin Island, off the County Antrim coast. Footage from Dougl…",1,0.920876,0.08024171,Disaster
+16910,flooding,Spain,VENICE RUNS DRY: Gondolas stranded in mud just two months after severe flooding #venice #gondolas #flooding… https://t.co/TkS4Tk21xi,1,0.9216195,0.07723039,Disaster
+16911,flooding,"Melbourne, Victoria",How good is it when the supercoach podcasts come flooding in? My favourite time of year 🥰,0,0.19429302,0.8093524,NOT a Disaster
+16912,flooding,southampton,I Just have to say what an amazing job they've made of making the flooding situation worse in Bubb lane!,1,0.8788821,0.113389954,Disaster
+16913,floods,"Dover, England",Water levels in Venice drastically drop two months after floods https://t.co/MfX4hfTAwe,1,0.9164151,0.08499154,Disaster
+16914,floods,"Malacca, Malaysia",our 2020 so far: 🇦🇺 Australia bushfires 🇺🇲🇮🇷 World War 3 threats from US &amp; Iran 🇮🇩 flash floods in Indonesia 🇵🇷🇮🇷 Puerto Ri…,1,0.9263191,0.07287003,Disaster
+16915,floods,,Thanks to the Turks/Ottomans there is a ceasefire in #Libya and #Idlib....saving Muslim lives while the Arab nations deal…,1,0.84322745,0.15739478,Disaster
+16916,floods,#WMCA but wanting OUT,"What forests do: 🌳 buffer impact of storms &amp; floods 🌿 help address the climate crisis 🌲 provide shelter, jobs &amp; se… https://t.co/I9ErTowd0g",1,0.87081015,0.121265754,Disaster
+16917,floods,"Karachi , Pakistan","It's literally been two weeks into 2020 and we have already seen the Australian fires, volcano in Philippines, record breaki…",1,0.9036778,0.09058434,Disaster
+16918,floods,"Madrid, España",I want to help you with my project to save the Caribbean Sea from floods and hurricanes https://t.co/qD8Om9NqQK,1,0.7928953,0.18275775,Disaster
+16919,floods,"Rawalpindi, Pakistan","Unprecedented floods are ravaging #Iran's Sistan &amp; Baluchistan province, with significant human &amp; material costs. Even as sear…",1,0.9196726,0.07983333,Disaster
+16921,floods,"Kent, UK","Venice canals almost dry, two months after severe floods - https://t.co/5XXdyMnecU #GoogleAlerts",1,0.9062707,0.09028442,Disaster
+16922,floods,"Kent, UK","Venice canals almost dry, two months after severe floods https://t.co/Qt0Il9semQ",1,0.90245306,0.09447997,Disaster
+16923,floods,"Madrid, España",I want to help you with my project to save the Caribbean Sea from floods and hurricanes https://t.co/qD8Om9NqQK,1,0.7928953,0.18275775,Disaster
+16924,floods,"Suffolk, Essex & Cambs",Book NOW to hear &amp; discuss #Floods #RisingWaters #Essex #AllAtSea 15 MAR …,1,0.8991057,0.08999336,Disaster
+16926,floods,Satan’s asshole,Indonesia: Jakarta residents file first ever class action suit against government after biblical floods: -&gt; dumped 337 m…,1,0.9170667,0.083158106,Disaster
+16927,floods,"Dublin, Ireland",Water levels in Venice drastically drop two months after floods https://t.co/MfX4hfTAwe,1,0.9164151,0.08499154,Disaster
+16928,floods,"Pontevedra, Spain","Venice canals almost dry, two months after severe floods https://t.co/27zxHQQPc7",1,0.90245306,0.09447997,Disaster
+16930,floods,"Cape Town, South Africa","“Hotter oceans lead to more severe storms and disrupt the water cycle, meaning more floods, droughts and wildfires,… https://t.co/4zsD7RgUAl",1,0.85437244,0.1398404,Disaster
+16933,floods,,"From Ethiopia, Somalia, to Kenya, first it was drought, then floods, al Shabaab in between, and now LOCUSTS – which have South…",1,0.9040439,0.095763594,Disaster
+16935,floods,,"Venice canals almost dry, two months after severe floods - https://t.co/5XXdyMnecU #GoogleAlerts",1,0.9062707,0.09028442,Disaster
+16936,floods,"Madrid, España",I want to help you with my project to save the Caribbean Sea from floods and hurricanes https://t.co/qD8Om9NqQK,1,0.7928953,0.18275775,Disaster
+16938,floods,"Deer Park, Victoria, Australia","Remember that fires are easier to start than floods, so I will be in the lazy team",1,0.81583506,0.17106532,Disaster
+16939,floods,,"By destroying the environment, the mullahs have worsened the floods, doing nothing to help the victims. They squandered…",1,0.9006619,0.10065843,Disaster
+16940,floods,,Happy with the fires ? Guess what scientists predict next. Unprecedented cyclones and floods. #ClimateEmegency,1,0.8961903,0.09851706,Disaster
+16941,floods,"Russia, Saint-Petersburg",Exceptionally low tides leave Venice's canals nearly dry just 2 months after floods https://t.co/BtDSeyJPQt https://t.co/M…,1,0.88321674,0.11225838,Disaster
+16944,floods,,"Forests 🌳 buffer impact of storms &amp; floods 🌿 help address the climate crisis 🌲 provide shelter, jobs &amp; security for forest-dependen…",1,0.8746889,0.1188639,Disaster
+16945,floods,#ImpeachTrump,"Snow, rain and flash floods leave dozens dead in Afghanistan and Pakistan: At least 43 people are dead in Pakistan and Afghanis…",1,0.92784697,0.07268268,Disaster
+16947,floods,London 4ever,"Venice canals almost dry, two months after severe floods https://t.co/zbyrK3WhTN",1,0.90245306,0.09447997,Disaster
+16948,floods,,"Low tide leaves Venice's canals dry, just months after severe floods https://t.co/irGhhYexMr via",1,0.86419296,0.124280915,Disaster
+16949,floods,UK and Ireland,#stormbrendan is upon us. Here are some of Aspray's top tips if the storm causing flooding to your property:… https://t.co/kA4M6eV8oS,1,0.8295819,0.14781687,Disaster
+16951,floods,Brussels,#Sentinel2 2020-01-13 Sistan and Baluchestan #Iran Heavy rains generate floods in Chabahar County bands 8/4/3 Data …,1,0.92322195,0.075737424,Disaster
+16952,floods,"Mumbai, India",Deadliest disasters: Earthquakes Floods Forest Fire Volcanic Eruption M0d! &amp; $h,1,0.92512274,0.07266449,Disaster
+16953,floods,Plymouth (UK) & Budapest (HU),Let’s hope it floods the studios with creativity!,0,0.19902109,0.7721089,NOT a Disaster
+16955,floods,Kota Tanjung Pinang,"Venice canals almost dry, two months after severe floods https://t.co/P0S6w6voTU",1,0.90245306,0.09447997,Disaster
+16956,floods,,Birthday appeal to get Pokot children back to school after the floods. I would be really grateful of any help :) es… https://t.co/IqFSVPh3aa,1,0.8201903,0.16472004,Disaster
+16958,forest-fire,"Mysore, India",Precautionary measures taken by #karnatakaforest department to avoid forest fire Mathigodu forest area thithimati… https://t.co/7MV8mnxnD8,1,0.86772984,0.12714314,Disaster
+16959,forest-fire,"Province of Vladimir, Russia","She can’t engage in open discourse, because if you give the truth oxygen, it turns into a forest fire. https://t.co/a8Bcea…",0,0.2692168,0.7079416,NOT a Disaster
+16962,forest-fire,"Colorado Springs, CO",Hikers doing their best to outdrive a forest fire https://t.co/n3YlQfMGYz,1,0.83568585,0.15061606,Disaster
+16966,forest-fire,A southern Labor voting state,Nearly all of the southern fire areas is regrowth forest that has been previously logged. That m… https://t.co/70oxnmumrX,1,0.8254148,0.17571796,Disaster
+16967,forest-fire,The Beach,Tonight I've seen this fire 🔥 above Tokeh village increase from a small fire to this in just 2 hours. This needs to st…,1,0.9159802,0.08714529,Disaster
+16968,forest-fire,"Lagos, Nigeria",It was a crazy weekend here in Virginia. Very high winds and a large forest fire close to our house. Thankfully the rain…,1,0.8549955,0.13938248,Disaster
+16970,forest-fire,"Atascocita, Texas",Units responding to a report of a Small Trash Fire on East Fm 1960 And Timber Forest Dr - in Atascocita,1,0.92009014,0.08423632,Disaster
+16972,forest-fire,"Prague, Czech Republic",Record fire years in #Amazon &amp; #Australia inflame concerns surrounding climate change effects on forest disturbance… https://t.co/46G93Guqq9,1,0.89366263,0.10144727,Disaster
+16973,forest-fire,"Puerto Rico, USA","She can’t engage in open discourse, because if you give the truth oxygen, it turns into a forest fire.",0,0.2692168,0.7079416,NOT a Disaster
+16974,forest-fire,nicolastyrell@gmail.com,FOREST FIRE 1 now available on all streaming services https://t.co/PnuR56N1K6 https://t.co/lfRGA4gBJE,1,0.84655184,0.15190566,Disaster
+16977,forest-fire,"Rennes, France","When women turn 30, they have to pick a subclass: • sea witch • forest witch • fire witch • air witch • space witch",0,0.24814482,0.7217272,NOT a Disaster
+16978,forest-fire,"Cowichan, British Columbia",Just wondering what effect all the forest fire smoke and volcanic ash (from 3 volcanoes currently) will have on our… https://t.co/VfEs1Pxltb,1,0.8894636,0.10675164,Disaster
+16981,forest-fire,,"If deforestation were discontinued now, the amount of forest lost to fire would be reduced by 30% compared to business as…",1,0.7536215,0.2245647,Disaster
+16983,forest-fire,"UK, US, Paris, tha' 🌍",ISIS calls on its supporters to start forest fires. Islamic State has called its fanatics to set fire to forests in Eu…,1,0.897334,0.108130395,Disaster
+16985,forest-fire,,#NHESS https://t.co/KTX4iMM9GN Evaluating forest fire probability under the influence of human activity based on remote sensing and GIS,1,0.8721763,0.12305176,Disaster
+16988,forest-fire,near the forest,A ‘resprouter’ eucalypt forest burned by high-severity fire near the Macalister River in eastern Victo… https://t.co/VgX9H4zxYA,1,0.91132617,0.090185136,Disaster
+16995,forest-fires,USA,Unleash Hell': New Al Qaeda magazine describes in detail how to start huge forest fires across th...… https://t.co/NgWja64l8R,1,0.8950234,0.10722001,Disaster
+16996,forest-fires,Worldwide,Climate change is responsible for forest fires in Australia.,1,0.8580814,0.15027553,Disaster
+16997,forest-fires,Australia,"The climate does not cause forest fires. They are caused by mis-management (silly green-think), lightning, campfires, ciga…",1,0.8925733,0.10568602,Disaster
+16998,forest-fires,Rwanda,Is that so❓ That's too bad.🙀 Australia has many forest fires.🔥 I´m concerned about firefighters too.🚒👨‍🚒,1,0.8871052,0.1159835,Disaster
+16999,forest-fires,,"200112 SECHAN INSTAGRAM ""Hi, this is Sehun &amp; Chanyeol. The damage from the forest fires that began 5 months ago in Aust…",1,0.9098076,0.09446755,Disaster
+17004,forest-fires,"North East, England","For those interested in a sceptical view, from Australia, of the standard coverage of Australia's forest fires, this is in…",1,0.9052832,0.098723404,Disaster
+17006,forest-fires,Seymou,"bahahahaha yes, they'll probably still be happening in March. bushfires don't go out after a couple d… https://t.co/887yP4ff8W",1,0.8940338,0.10400056,Disaster
+17008,forest-fires,,It is terrible news what we see on TV every day about those forest fires. Terrible for all those peopl… https://t.co/vx2jaFBXCW,1,0.9138589,0.09133936,Disaster
+17009,forest-fires,,"#NatureTerrorism ISIS Tells Followers to Set Forest Fires in U.S., Europe https://t.co/XMdfeYTImE",1,0.8060232,0.19304425,Disaster
+17010,forest-fires,,Pawcept: Australia and Amazon Forest Fires: Cheering the Ch... https://t.co/KxqLGw8eTt,1,0.9059427,0.09388618,Disaster
+17011,forest-fires,JAPAN,Some regions of the world at risk of forest fires may become unsuitable for human habitation https://t.co/dMNoDrcazY,1,0.8275352,0.16533498,Disaster
+17013,forest-fires,,BBC News - Climate change: Australia fires will be 'normal' in warmer world https://t.co/R30bO3gmJc,1,0.9067717,0.09563468,Disaster
+17014,forest-fires,Teesside,"Forrest fires in Oz are ""not man made"" then claim its down to poor… https://t.co/Dlcqt32Mzv",1,0.8958778,0.10589789,Disaster
+17016,forest-fires,USA,Pray for Australia Forest Fires shirt https://t.co/IyRT65zN2R https://t.co/HNPSeOb2Xx,1,0.7290972,0.26547357,Disaster
+17018,forest-fires,,Many forest fires are caused by Arson. The forest fire has drastically reduced Prime Minister Morrison's approval r… https://t.co/U5zP170B0m,1,0.89204544,0.11136397,Disaster
+17020,forest-fires,,The fires are in #Australia now but come this summer we will be fighting our own battles against forest fires. We're…,1,0.8973332,0.11295612,Disaster
+17021,forest-fires,United Kingdom,🔥🔥 You harped on this morning about climate change causing Australian fires...but you didn't mention n… https://t.co/xo7bRDUMJp,1,0.8114265,0.1730227,Disaster
+17022,forest-fires,Sydney Nova Scotia,More Santa Winds with a lot more forest fires and fires in late January 2020 My Video Coming Soon,1,0.84940684,0.15240216,Disaster
+17024,forest-fires,"กรุงเทพมหานคร, ประเทศไทย",Its crazy and sad to see the current fires happening in the amazon rain forest! I was lucky to visit last year to…,1,0.8830374,0.114168584,Disaster
+17025,forest-fires,,Theyre surrounded by water...why are they not drawing water from sea.when forest fires occur in greece th… https://t.co/OS0e59RtFU,1,0.8760534,0.12056773,Disaster
+17026,forest-fires,"Sydney, New South Wales",Hey non Australians. It’s a bush fire. The equivalent to a forest fire anywhere else. Calling them brush fires seri… https://t.co/WoDj2FNeoi,1,0.8684217,0.12333198,Disaster
+17027,forest-fires,makati,Fires have also affected the alpine habitat of the endangered southern corroboree frog and the forest and sub-alpin… https://t.co/fAuS7OC8eC,1,0.8840525,0.116395906,Disaster
+17030,forest-fires,USA,Pray for Australia Forest Fires shirt https://t.co/YQka8OgjL1 https://t.co/jrU2b3v0SF,1,0.7290972,0.26547357,Disaster
+17031,forest-fires,,Is that so❓ That's too bad.🙀 Australia has many forest fires.🔥 I´m concerned about firefighters too.🚒👨‍🚒,1,0.8871052,0.1159835,Disaster
+17238,hazard,,Dear Noah and other Aus Open players. I am a professional firefighter in Melbourne. I know a little bit about the health haz…,0,0.26350087,0.70028305,NOT a Disaster
+17248,hazard,"New Farm, Brisbane","Spoke to a guy from country Victoria today. He informed me they're calling their #bushfires 'the Greenies' fires"". When I poi…",1,0.8708715,0.13339724,Disaster
+17262,hazardous,"Melbourne, Victoria (Boon wurrung)","Melbourne's air quality on Tuesday morning is at levels worse than predicted due to an influx of bushfire smoke, plummeting to…",1,0.90633756,0.09518642,Disaster
+17263,hazardous,,The #airquality in Melbourne is hazardous today due to the bushfires. The advises Melburnians should try…,1,0.8285065,0.15101838,Disaster
+17273,hazardous,"Minnesota, USA",Melbourne's air quality 'worst in the world' as bushfires continue to burn across Victoria https://t.co/44wOfgYcSN,1,0.9137572,0.08589566,Disaster
+17291,hazardous,"London, England",Why are none of the News Media reporting on this! Melbourne air quality drops to 'hazardous' levels as bushfire smo… https://t.co/g6e6R4mFUB,1,0.9130404,0.08225111,Disaster
+17292,hazardous,Cambridge,Melbourne choked by hazardous smoke as bushfires continue to burn across Victoria https://t.co/McmEpO9ZI3,1,0.920919,0.08001537,Disaster
+17294,hazardous,Melbourne,Melbourne's air quality 'worst in the world' as bushfires continue to burn across Victoria https://t.co/yotDRLNqhc,1,0.9137572,0.08589566,Disaster
+17297,hazardous,"Melbourne, Victoria",Melbourne's air quality 'worst in the world' as bushfires continue to burn across Victoria https://t.co/rq3B4SQnz5,1,0.9137572,0.08589566,Disaster
+17304,hazardous,"Melbourne, Victoria",Melbourne air quality drops to 'hazardous' levels as bushfire smoke lingers over Victoria https://t.co/m1L1YhSgFr via,1,0.9150756,0.08554516,Disaster
+17309,hazardous,Malta,"Nothing to see here. This is totally normal. Hah, loony lefties thinking fires are new. This is normal. Nothing to w…",1,0.81027234,0.19149466,Disaster
+17312,hazardous,,The 'hazardous' air level due to the #bushfires in #Australia makes impossible to continue a match.… https://t.co/Po6AS1SwDp,1,0.80704325,0.17739484,Disaster
+17371,hellfire,,"C'mon Izzy, enough with the Hellfire, surely it's time for the locust plague or a good infestation of boils. https://t.co/PWcW8rW9c4",1,0.8599255,0.122825004,Disaster
+17372,hellfire,"City of London, London",This paragraph tells you all you need to know about this non-story. They get fired up over the use of… https://t.co/uNwVQXi0Cs,0,0.22886108,0.7663056,NOT a Disaster
+17373,hellfire,One foot in the grave,Your a star d up Comedian with Hellfire and Drones😂 Luv u man,0,0.17827182,0.80677015,NOT a Disaster
+17378,hellfire,Northern Ireland,"Take a closer look at Benjamin Franklin, his involvement in the Hellfire Club, and the dozens of corpses later discove…",0,0.27302176,0.7094411,NOT a Disaster
+17383,hellfire,"Kaduna, Nigeria",Ya Allah ... Protect us from HELLFIRE Protect us from HELLFIRE Protect us from HELLFIRE Protect us from HELLFIRE Protect us…,1,0.70493877,0.2639724,Disaster
+17387,hellfire,,⚜️ LATEST UPDATE ⚜️ New Hero Painted Skin for Irithel - Hellfire [Ice Spike] is now Available in Shop. 🔻 Mobile Le… https://t.co/pvisjkG5rA,0,0.21886398,0.7662536,NOT a Disaster
+17388,hellfire,she/her | 19,am glad i was too busy doing homework to get caught in the book twt hellfire oof,0,0.16998366,0.801866,NOT a Disaster
+17391,hellfire,,“Nature is not a place to visit. It is home.” Gary Snyder #TuesdayThoughts #Hellfire #Sundowns #Nature #Wildlife #Bio…,1,0.7013194,0.25691354,Disaster
+17405,hellfire,http://ask.fm/syazwanreno,only hellfire can chase the vellfire on the highway.,1,0.8369407,0.15117952,Disaster
+17410,hellfire,,"Nabi SAW said, ""Save yourself from hellfire by giving even half a date-fruit in charity."" (Bukhari)",0,0.23510315,0.765956,NOT a Disaster
+17541,hijacking,Canterbury Cathedral,"Yes James, the Left now hijacking the bushfire crisis to push their climate change hysteria agenda.",1,0.732071,0.2518442,Disaster
+17726,hurricane,"Nashville, TN",The Flood Advisory continues for The Duck River Near Hurricane Mills * Until this afternoon. * At 2 AM Tuesday th… https://t.co/qCWIIGoHjx,1,0.89454925,0.10494924,Disaster
+17727,hurricane,"Nashville, TN","OHX continues Flood Advisory for Duck River near Hurricane Mills [TN] till Jan 14, 12:00 PM CST https://t.co/XoJY8xWmEz",1,0.9105325,0.08672237,Disaster
+17765,injured,Iran occupied,🔴Warning Repressive forces of the Islamic Republic have fired on Iranian protesters. Local sources say 7 people were…,1,0.90232414,0.101104565,Disaster
+17768,injured,,Australians are opening their homes to wildlife injured and orphaned in the bushfires. #abc730 #AustralianBushfires…,1,0.91400856,0.08533788,Disaster
+17774,injured,,Volunteers around Australia are caring for wildlife injured and orphaned in the bushfires. #abc730 #AustralianBushf…,1,0.9056517,0.093468465,Disaster
+17777,injured,LiberalsR VIRTUE SIGNALLINGpos,🔴Breaking News Oppressive forces of the Islamic Republic in Tehran have fired on people. Several people have been inj…,1,0.9165515,0.08545933,Disaster
+17841,injuries,"Ottawa, Ontario",WORKING FIRE: Ottawa Fire Services on scene of the 1800 block of Russell Rd for a working fire in a multi unit building.…,1,0.90770847,0.09691405,Disaster
+17845,injuries,"Clarence-Rockland, Ontario",WORKING FIRE: Ottawa Fire Services on scene of the 1800 block of Russell Rd for a working fire in a multi unit buil… https://t.co/GkDREoPDZI,1,0.9111203,0.09351368,Disaster
+17925,inundated,"Iran, Tehran",The extent of 2020 #flood in #Chabahar County southwest of #Iran mapped by cloud-free Sentinel-2 data. Several villages still…,1,0.9217402,0.077389404,Disaster
+17929,inundated,,"FLOOD WARNING! Vehicles, U-haul inundated by flood waters off Mud Creek in Hendersonville, NC!… https://t.co/XcCqplcUfw",1,0.92053884,0.08038213,Disaster
+17981,inundation,Sydney,Tracking changes in mosquito populations after the fires; these pools are from tidal inundation and not rain. Plenty of mo…,1,0.81561625,0.16354851,Disaster
+17990,inundation,"Washington, DC","Deputy Director, Mary Erickson, discussing and an exciting multi-federal agency project on flood inun… https://t.co/FXHCyRv7nH",1,0.8149892,0.1665873,Disaster
+18003,inundation,"Boston, MA",John McHenry long time #WRFHydro community member presenting on flood inundation case study for hurricane Florence #AMS2020…,1,0.9000142,0.094810314,Disaster
+18004,inundation,"Boulder, CO",John McHenry long time #WRFHydro community member presenting on flood inundation case study for hurricane Florence… https://t.co/7T4TenrZMl,1,0.8989502,0.09589977,Disaster
+18005,inundation,,Happening in 253C #AMS2020 Flood inundation mapping for Texas. Improved information representation for emergency Management…,1,0.90697634,0.09155854,Disaster
+18006,inundation,"Boulder, CO",Happening in 253C #AMS2020 Flood inundation mapping for Texas. Improved information representation for emergency M… https://t.co/9KNaRtACKF,1,0.9123691,0.0866564,Disaster
+18009,inundation,Ireland,#StormBrendan weather may combine with high spring tides to cause coastal flooding inundation and wave overtopping… https://t.co/LAUj7ZRhdQ,1,0.8713872,0.11789977,Disaster
+18014,inundation,"Lawrence, Kansas, USA",Flash Flood Warnings remain in effect for Hawaii County &amp; Maui County in #Hawaii. Some higher elevations on the Big Islan…,1,0.91182566,0.09346365,Disaster
+18015,inundation,"Sydney, Australia",Tracking changes in mosquito populations after the fires; these pools are from tidal inundation and not rain. Plent… https://t.co/Q1EMj09jXu,1,0.82006925,0.16052781,Disaster
+18035,inundation,"Chicago, IL",Flash Flood Warnings remain in effect for Hawaii County &amp; Maui County in #Hawaii. Some higher elevations on the Big… https://t.co/oiURB8vkzq,1,0.91356134,0.09274116,Disaster
+18038,inundation,Ireland,"#StormBrendan There is a risk of coastal flooding/storm damage including wave overtopping, inundation &amp; erosion of sof…",1,0.91865015,0.079926535,Disaster
+18039,inundation,Ireland,"#StormBrendan There is a risk of coastal flooding/storm damage including wave overtopping, inundation &amp; erosion of… https://t.co/amKLlkyuMh",1,0.91707844,0.08085445,Disaster
+18098,lava,•lokiract •ace •she/her,Excuse me but setting bread on fire and making a bean lava lamp is perfectly acceptable and is definitel…,0,0.24453765,0.7307943,NOT a Disaster
+18165,loud-bang,"Geelong, Victoria",Hi Will their be fireworks on 25th January BBL game I hope not cause I have autism and not a fan of the loud bang,0,0.20374618,0.77364856,NOT a Disaster
+18298,mass-murder,United States,Absolutely tragic. And intentional. Mass murder. Not #climatechange #AustralianBushfire #AustralianWildFires https://t.co/SHAWE4yNOd,1,0.9163473,0.080072634,Disaster
+18324,mass-murderer,,"Marivan, western #Iran Brave youths set fire to a large poster of the mullahs' IRGC Quds Force chief Qasem Soleimani, exp…",1,0.91847694,0.088344574,Disaster
+18335,mass-murderer,,"Marivan, western #Iran Brave youths set fire to a large poster of the mullahs' IRGC Quds Force chief Qasem Soleiman… https://t.co/m1vluajqMJ",1,0.9183557,0.08908894,Disaster
+18440,meltdown,"Bengaluru South, India","Financia meltdown in india, Jamia, JNU and many more of that sort to come,bush fire in Australia, US traumatising I… https://t.co/iHEftnVaBv",1,0.902241,0.09430064,Disaster
+18598,natural-disaster,Orelia,We’re even tall poppy’ing our own natural disaster. The fires and smoke are VERY serious people. Don’t need to bring it dow…,1,0.8193632,0.1718378,Disaster
+18612,natural-disaster,Central NSW,"Many irate farmers around here, absolutely spewing actually. I know how it works, fires are a natural disaster &amp; d… https://t.co/5vU8ZdVOCB",1,0.8920206,0.10807725,Disaster
+18622,natural-disaster,Canberra,Kind wishes to the badly flood-struck people of #Sistan and #Baluchistan provinces of #Iran. We are experie… https://t.co/oO4WDuClX8,1,0.88801926,0.11019901,Disaster
+18625,natural-disaster,Australia,We’re even tall poppy’ing our own natural disaster. The fires and smoke are VERY serious people. Don’t need to brin… https://t.co/QTXJ3y7ZR9,1,0.7948952,0.1929887,Disaster
+18756,obliterate,Manchester,Absolutely..part of world is on fire ..the Middle East is volitile... BJ and DT are socio… https://t.co/Xdd3YldIBA,1,0.91970146,0.08057145,Disaster
+18946,oil-spill,Virginia,Hey Dominion your ecofascism is showing. Only a company hellbent on destruction would fire its employees for trying… https://t.co/YYOy28KQyv,0,0.23127192,0.7619301,NOT a Disaster
+19053,panic,"Grantham, Lincolnshire, UK",Australia fires: Terrified experts warn more than 13 species extinct in 'hellish' inferno. PANIC continues to grow… https://t.co/rGi5x91iyd,1,0.9104041,0.08615711,Disaster
+19185,police,Texas,Massive Manhunt Underway After Man Opens Fire On Police And Is Considered Armed And Dangerous https://t.co/RmGFLHUMIQ,1,0.8103817,0.19776541,Disaster
+19229,police,"minneapolis, mn",🇦🇺 180 people so far charged with arson during Australian bushfires? False ❌ We collated police figures from across Aust…,1,0.8987796,0.100042574,Disaster
+19372,rainstorm,Northeast Florida,My truck needs a snorkel #dubai #flood #rainstorm https://t.co/FqVOu0h8nR,1,0.77650225,0.19438912,Disaster
+19386,razed,KUALA LUMPUR,Today’s SCMP backpage: 11 million hectares have been razed by the Australian 🔥 #bushfiresAustralia #bushfirecrisis …,1,0.89205205,0.10667664,Disaster
+19388,razed,"Mumbai, India","As unprecedented wildfires threaten large parts of Australia, the nation’s agriculture industries are counting the… https://t.co/4QjRgMH347",1,0.9068804,0.09408766,Disaster
+19389,razed,,"As unprecedented wildfires threaten large parts of Australia, the nation’s agriculture industries are counting the… https://t.co/XVGmWDWBpO",1,0.9068804,0.09408766,Disaster
+19394,razed,"Abuja, Nigeria","A fire outbreak has razed down 39 shops, ravaging furniture worth over N21 million at Kugbo furniture market in Abuja. Re…",1,0.89012176,0.10864351,Disaster
+19396,razed,"Abuja, Nigeria","A fire outbreak has razed down 39 shops, ravaging furniture worth over N21 million at Kugbo furniture market in Abu… https://t.co/toVztjNMB9",1,0.8859944,0.11431763,Disaster
+19397,razed,"Suleja, Nigeria","A fire outbreak has razed down 39 shops, ravaging furniture worth over N21 million at Kugbo furniture market in Abuja. Rea…",1,0.8895536,0.109109715,Disaster
+19399,razed,"Thornton, Cleveleys UK","#ThisDay 2014 - Up to 5 people feared dead as devastating bush-fires sweep through Perth, Australia. https://t.co/ylvPlqDpdg",1,0.92888796,0.07233436,Disaster
+19407,razed,"Abuja, Nigeria",Abuja furniture shop razed by fire https://t.co/zyQO0DGPAN https://t.co/PGkCwezy17,1,0.90611404,0.09022304,Disaster
+19408,razed,Hong Kong,Today’s SCMP backpage: 11 million hectares have been razed by the Australian 🔥 #bushfiresAustralia #bushfirecrisis… https://t.co/5QHFzmIb6o,1,0.89205205,0.10667664,Disaster
+19413,razed,Abuja,"A fire outbreak has razed down shops, ravaging stuff worth over millions at the old market in Sokoto. May Allah rescue and forgive us!",1,0.8876279,0.11511919,Disaster
+19414,razed,"Abuja, Nigeria","A fire outbreak has razed down 39 shops, ravaging furniture worth over N21 million at Kugbo furniture market in Abu… https://t.co/JG9kZtiPKB",1,0.8859944,0.11431763,Disaster
+19423,razed,"Cebu, Philippines","A fire razed at least 60 houses in a densely populated residential area in Sitio Santo Niño 3, Barangay Luz, on Mon… https://t.co/fMZruP45Fs",1,0.9219671,0.082070895,Disaster
+19430,razed,"Washington, DC",Australia’s raging fires will create big problems for fresh drinking water In the wake of the enormous fires that… https://t.co/o20jhJT7Qd,1,0.8928408,0.10974458,Disaster
+19444,razed,"Pakenham, Victora, Australia","""A beautiful bunch of legends,"" - tradies band together to rebuild bushfire ravaged towns #TFFAC https://t.co/…",1,0.9191437,0.08092525,Disaster
+19450,razed,"Dallas, Texas",1️⃣4️⃣7️⃣ 🏠HOUSES RAZED BUT TREES STILL GREEN🌳 🤔How often did we see this in California’s 2018 “wildfires”❓ 🤔Since when…,1,0.9116643,0.09577071,Disaster
+19521,rescue,"dance, dance, with me!",Volunteers from Manila District Fire and Rescue saved not just residents but also dogs in Agoncillo town in Batangas.…,1,0.90729105,0.097470924,Disaster
+19563,rescued,"Pto. La Cruz, Venezuela",Man rescued after withstanding 3 weeks in Alaskan wilderness following loss of his home and beloved dog to fire https://t.co/rx…,1,0.8901762,0.10645922,Disaster
+19584,rescued,"Melbourne, Victoria",How much can a koala bear?* 🐨😍 Operational Response Unit (ORU) officers rescued a koala cub they found in fire-affecte…,1,0.7680229,0.21944077,Disaster
+19585,rescued,Eskişehir,"Just as firefighters are combating #bushfires in Australia, rescuing people and animals, 75 years ago our own national f…",1,0.89801437,0.10627933,Disaster
+19589,rescued,,Oh my God. These baby Kangaroos were rescued from the fires in Australia and people are now taking care of them 😭 https:…,1,0.8918943,0.10354312,Disaster
+19601,rescuers,"New South Wales, Australia",From bushfires to the drought – it’s been a tough time of late – especially for our wildlife. While the extreme weather has p…,1,0.8758121,0.11651277,Disaster
+19602,rescuers,,"""F*****' Aussies!"": Amid the bushfire devastation on Kangaroo Island, one team of rescuers has brought some light-heart…",1,0.9097604,0.09409828,Disaster
+19624,rescuers,Australia,From bushfires to the drought – it’s been a tough time of late – especially for our wildlife. While the extreme we… https://t.co/6dcn6iMMQL,1,0.8645512,0.12658077,Disaster
+19643,rescuers,United States,"1-New South Wales, Australia is trying to safeguard ""all wildlife"" bushfire survivors via aerial food/water drops. Estimates…",1,0.9054354,0.09177924,Disaster
+19852,sandstorm,Middle-Earth,Firestar and Sandstorm art I did with 's designs 'cause I'm weak for this relationship https://t.co/u56kp6fIUQ,0,0.1910724,0.80211526,NOT a Disaster
+19960,screaming,"Oregon, USA",this guy on apex got mad that I got to the spitfire first and started rage screaming at me for 10 minutes but the f… https://t.co/QdaN1xKZM4,0,0.21626844,0.7502459,NOT a Disaster
+20080,seismic,United States,THIS IS GOD.. FIRE.. &amp; SEISMIC ACTIVITY.. AS HE DECLARED! https://t.co/wzN0GXLuzU https://t.co/3fkzHbbkMz,1,0.7677742,0.19716486,Disaster
+20275,sirens,엑소,no wonder i hear sirens earlier merc caught fire near Pavillion hope everyone’s ok https://t.co/OiWsVAvgml,1,0.9049144,0.0995258,Disaster
+20301,sirens,UK,"Australia bushfires are harbinger of planet’s future, say scientists Apocalyptic scenes give glimpse of what would be normal…",1,0.84918416,0.1374183,Disaster
+20315,sirens,"New York, NY",like i get all you ambulances and fire trucks with your loud sirens have somewhere to be but please consider that i need to sleep,0,0.16719304,0.79823434,NOT a Disaster
+20336,smoke,India,Australian Open player collapses on court as bushfire smoke covers Melbourne – video https://t.co/K4DyBuoiC1,1,0.7785152,0.22110197,Disaster
+20343,smoke,"Kyoto, Japan",“Melbourne's air quality 'worst in the world' as bushfires continue to burn across Victoria | Australia news | The… https://t.co/23tuFrLWXJ,1,0.9094611,0.0886366,Disaster
+20348,smoke,Sydney,"Wildfire smoke to circle planet and return to Australia, Nasa says https://t.co/iTHv7pYH1I https://t.co/exx57uZ1Ol",1,0.72545564,0.21065955,Disaster
+20354,smoke,"Berlin, Germany, 3rd planet from sun","Bushfire smoke plume is expected to lap the globe, NASA says. ""In the case of these fires — they are so huge, they are…",1,0.90250915,0.097324066,Disaster
+20357,smoke,Hull,"Bushfire smoke plume destined to reach Australia again after circling the globe, NASA predicts https://t.co/UGMkGbh02a",1,0.8857079,0.102425925,Disaster
+20365,smoke,"Sydney, New South Wales",NASA says smoke from Australia's devastating bushfires will pass back over the country after travelling around the globe. #9N…,1,0.8917162,0.1002463,Disaster
+20380,smoke,"New York, NY","Rain offers Australian bushfire hope, but smoke hits tennis stars: Physorg https://t.co/KkOYmfxmcI MORE w/ EcoSear… https://t.co/QityDBeIYD",1,0.83836246,0.15119533,Disaster
+20433,snowstorm,"Seattle, WA",Caught in the crossfire!❄️⛄️ #Q13Fox photojournalist Scott Hopson says he would’ve gotten even with the overly aggres…,0,0.21358041,0.7791465,NOT a Disaster
+20900,survived,भारत,Australia is airdropping vegetables from helicopters to feed the animals that survived the bushfires https://t.co/JGmYGNrU…,1,0.89301395,0.10397871,Disaster
+20914,survived,Oz,Australia is airdropping vegetables from helicopters to feed the animals that survived the bushfires https://t.co/tOvpkU7C…,1,0.89301395,0.10397871,Disaster
+21026,terrorist,Follow for Follow,A terrorist fires upon American heroes. His iPhones are lawfully seized. A federal court authorizes searches of the data o…,1,0.72502893,0.26536557,Disaster
+21111,threat,Sydney,Check out my first article on the bushfires and forecasted rain! https://t.co/9Gsu0oEiNl,1,0.82269055,0.15494747,Disaster
+21158,thunder,Nigeria,🎵 Oh! Some people say I no go blow Eh! same people wan dey with OBO.. I say thunder fire poverty Fire burn my enemies…,0,0.2576888,0.7015406,NOT a Disaster
+21615,typhoon,Sarawak,"ALL WE NEED ARE PRAYERS PEOPLE . IT'S TIME TO REFLECT THIS YEAR. After Australia fire, Jakarta typhoon, South Korea fir…",1,0.90243083,0.08963757,Disaster
+21782,volcano,upd 🎬,While we’re busy responding to #bushfires here at home our colleagues at are helping people caught up in the…,1,0.9116244,0.09267721,Disaster
+21786,volcano,,"The world is something else lately. The fire, volcano, influenza, war. Stay safe everyone.",1,0.908662,0.08891478,Disaster
+21813,war-zone,,"Heartbreaking Jenny. I read about the community of Rappville, almost forgotten in the recent fires. People…",1,0.7812571,0.21045546,Disaster
+21945,weapons,"Austin, TX",Ruh Roh [AS] ([AS]S)chiffty comes under fire for having his own connection to Ukrainian businessman whose company manu…,0,0.28438205,0.730401,NOT a Disaster
+22012,wild-fires,"Florida, USA",Because of the major fires in Australia the local Air Force has begun to air drop vegetables for wild animals. Animals are…,1,0.83512104,0.16093479,Disaster
+22013,wild-fires,Oklahoma,Koala Who Burned All 4 Paws In Fires Is So Happy To Finally Be Safe https://t.co/S4FuopbbZ9,0,0.22959717,0.72131807,NOT a Disaster
+22015,wild-fires,Victoria,Agreed- but I so wish it hadn’t taken apocalyptic wild fires &amp; the deaths of…,1,0.8034811,0.18029042,Disaster
+22018,wild-fires,bts day6 TS redvelvet the🥀,OK so I know you're trying to be shady like but the wild fires aren't soemthing to joke about to get a fe…,1,0.7180729,0.27766714,Disaster
+22020,wild-fires,PUNE. MAHARASHTRA. INDIA.,Australia Bush 🔥 Wild Fires. https://t.co/rcrANcPHsx,1,0.91653645,0.08458852,Disaster
+22021,wild-fires,,[UCC] BTS V's Fans join hands with charities to help Australia fight bush fires #PrayForAustralia https://t.co/BNh6iCOL4r http…,1,0.83315593,0.16447262,Disaster
+22022,wild-fires,,Amazing commission of my boy Avoozl as part of 's donation drive for the Australlian wild fires! https://t.co/…,1,0.89011985,0.11682603,Disaster
+22025,wild-fires,,"Jeff Bezos gave $690,000 to wild fires in Australia, and has 116.7 billion dollars. To put this into perspective, my boyfrien…",1,0.86149496,0.14607207,Disaster
+22027,wild-fires,"Johnston, SC",Koala Who Burned All 4 Paws In Fires Is So Happy To Finally Be Safe https://t.co/1PLdtHO28k,0,0.22959717,0.72131807,NOT a Disaster
+22030,wild-fires,,The animals affected by Australia wild fires will need lots of help. They are coming out of the bushes looking for fo…,1,0.8532219,0.13765608,Disaster
+22031,wild-fires,,These idiots on GMB are still on about climate change has started the wild fires in Australia why don’t they tell t… https://t.co/W9Vg5OHFK2,1,0.8365022,0.16492783,Disaster
+22033,wild-fires,North Yorkshire,"Doing what I can. Been left heart broken by the news over the past week from the horrific Australian wild fires, 100%…",1,0.92097956,0.08193768,Disaster
+22034,wild-fires,North America,We should be at a point where drones can deliver water to fire fighters and food to animals on wild fires around th… https://t.co/EuXcHHGSgC,1,0.8249237,0.15548769,Disaster
+22036,wild-fires,"Tempe, AZ","Jeff Bezos gave $690,000 to wild fires in Australia, and has 116.7 billion dollars. To put this into perspective, m… https://t.co/21Z7lOkEC4",1,0.89337796,0.113027096,Disaster
+22037,wild-fires,"San Antonio, TX",👀👀👀 donate the funds to the Australia wild fires,1,0.8865392,0.12247456,Disaster
+22038,wild-fires,"Espoo, Finland",Summer fun needs to be redefined. Two years ago there were wide wild fires in Scandinavia and around… https://t.co/lO1lgLUW9e,1,0.87604517,0.14032815,Disaster
+22046,wild-fires,Oklahoma,"There's method to the madness with the California wild fires. Instead of foreclosures in mass, creating a situation… https://t.co/hyZEBMAXyk",1,0.8991254,0.103016354,Disaster
+22047,wild-fires,"New York, NY ",Wild Fires,1,0.91701156,0.0879984,Disaster
+22048,wild-fires,Canada,I’m not sure why this concept is so hard for some people to understand. Isis directs terrorists to use wild/forest fire…,1,0.8405142,0.14088891,Disaster
+22049,wild-fires,,Earthquake in Puerto Rico. Volcano erupts in the Philippines. Wild fires in Australia. Wake up people,1,0.92382294,0.075412385,Disaster
+22050,wild-fires,,"we had pretty wild fire here on #brazil , and im hoping this fires on australia come to an end #FighttheFires",1,0.92174757,0.08363777,Disaster
+22051,wild-fires,,"Volcanic eruptions have been happening for 100s of million years, so have wild fires, so… https://t.co/e6svHogxWW",1,0.83457905,0.15550503,Disaster
+22054,wild-fires,,Praying for the people and animals of Australia during these horrible wild fires.,1,0.9123068,0.09325251,Disaster
+22057,wildfire,"England, United Kingdom",A rescue operation organized by a local family on Kangaroo Island transported injured koalas from areas devastated by bushfires. T…,1,0.925731,0.07508648,Disaster
+22058,wildfire,Madrid,"Jeff Bezos Gets Slammed for Meager 690,000 Donation to Australian Wildfire Crisis https://t.co/RdI7Qcanlg",1,0.88131917,0.115928955,Disaster
+22059,wildfire,"Lakeport, CA 95453",‘Outrageous.’ Officials furious that FEMA seeks money from California wildfire victims. Reporting with https://…,1,0.8864202,0.11619272,Disaster
+22060,wildfire,United States,Australia’s koala population has taken such an “extraordinary hit” from the wildfires sweeping the country https://t.co/cT7h…,1,0.8612588,0.13329124,Disaster
+22061,wildfire,धरती मां की गोद में,Non veg people have no right to show compassion towards animals who suffered in Australian wildfire 🙏🏼,1,0.8597347,0.13056277,Disaster
+22063,wildfire,The European Union (EU),The business impact of Australia’s wildfires is starting to sink in https://t.co/9vtOkOJlCn (#RT),1,0.9060732,0.09527596,Disaster
+22064,wildfire,,🎁AWP | Wildfire FT (€64)🎁 #CSGOGiveaway To win: ✅Retweet + Follow me ✅Tag 2 Friends ✅Like &amp; Comment on vid: https://t.co/FRK…,0,0.21010847,0.79790497,NOT a Disaster
+22067,wildfire,,Girls: omg I’m appalled after seeing the condition of these animals after the Australian wildfire oh god plz save them…,1,0.74699867,0.2114736,Disaster
+22068,wildfire,🇨🇦❤️          🛑NO DMs❗️,🐨 Australia’s koala population has taken such an “extraordinary hit” from the wildfires that it could be classified as endange…,1,0.84836495,0.13931626,Disaster
+22069,wildfire,England,The Australia wildfire relief is getting a huge boost from right now https://t.co/cawKzaTqmb,1,0.9092449,0.09317184,Disaster
+22070,wildfire,Kabi Kabi land. Queensland.,"New growth on Wollemi Pine (Wollemia nobilis) in my collection. My plants were subjected to wildfire on December 15th, 201…",1,0.8579142,0.141988,Disaster
+22071,wildfire,"Cloudsdale,Equestria Zone",Call of Duty: Modern Warfare's Outback Pack profits will be used for Australian wildfire relief https://t.co/uck7uVqAcL https:…,1,0.80017465,0.18862465,Disaster
+22072,wildfire,Planet Earth,Today publishes its first Rapid Response Review on #wildfire risks https://t.co/n1aEo0Elos **All** 57 sc…,1,0.86337095,0.12463065,Disaster
+22073,wildfire,,Future #wildfire risks grow with each added degree. To minimise growth in fire risk we must in fire risk we must stabilise…,1,0.8395774,0.15042989,Disaster
+22075,wildfire,,Visual map of the papers supporting the risk of wildfire. Watch this space! https://t.co/n54ME4MlC1,1,0.84868664,0.14386187,Disaster
+22076,wildfire,Hell,"Parkway Drive Donated $34,000 to Australian Wildfire Relief : https://t.co/ffKKglU5tr",1,0.8927805,0.105999306,Disaster
+22078,wildfire,Bangladesh,"Entrepreneur: Jeff Bezos Gets Slammed for Meager 690,000 Donation to Australian Wildfire Crisis https://t.co/Y5os3u2p9J",1,0.862422,0.13458084,Disaster
+22079,wildfire,"Fort Hood, TX",🐨 Australia’s koala population has taken such an “extraordinary hit” from the wildfires that it could be classifie… https://t.co/m8vMMlO32n,1,0.87040985,0.12103094,Disaster
+22081,wildfire,"California, USA",Australia wildfire map update: High and very high fire danger forecast as thunderstorms might hamper containment efforts http…,1,0.91287535,0.08701633,Disaster
+22082,wildfire,"Sydney, Australia",Strato: Meet Some Of The Australian Animals Hardest Hit By The Wildfire Disaster https://t.co/sdCVMowxgq #startup… https://t.co/gp9QVWhLud,1,0.7987448,0.17959599,Disaster
+22083,wildfire,"New York, NY",The toll from Australia's wildfires thus far: -At least 28 people killed -1 billion animals feared dead -Over 25 million acr…,1,0.9195331,0.07842245,Disaster
+22085,wildfire,,London gay bar throws mammoth 12 hour drag-a-thon to rise vital funds for devastating Australia bushfires https://t.co/d2gklG…,1,0.7729117,0.21933123,Disaster
+22087,wildfire,"Bargone di Casarza Lig, Italia","Wildfire Rips Along South Korea's Eastern Coast, Prompting National Emergency https://t.co/g2TH9TUZQw",1,0.9315106,0.07122894,Disaster
+22088,wildfire,"Newark, NJ","Wildfire Rips Along South Korea's Eastern Coast, Prompting National Emergency https://t.co/eSTO9doFZe",1,0.9315106,0.07122894,Disaster
+22089,wildfire,,"How , a photographer shooting Australia's wildfires for The Times, captured the devastation in one click.…",1,0.891219,0.1064789,Disaster
+22090,wildfire,,"CUHK professor Fang Kecheng revisits the real lessons of the disastrous 1987 Daxing’anling Wildfire, after a shameless…",1,0.9126398,0.087233946,Disaster
+22091,wildfire,"Kolkata, India","Wildfire Rips Along South Korea's Eastern Coast, Prompting National Emergency https://t.co/GKYJPZfGnE",1,0.9315106,0.07122894,Disaster
+22092,wildfire,,thank you to . for donating to .’s Do Good Inc. fundraiser to help fight the Australia wildfire c…,1,0.7814186,0.21641968,Disaster
+22093,wildfire,Hollywood-adjacent,"A wildfire may seem natural but it’s a pollution event. You’re not going to win against particles, even if you’re a… https://t.co/l88BtwdB6L",1,0.738463,0.23232909,Disaster
+22094,wildfire,,Carrots to the rescue for animals in wildfire-ravaged forests in New South Wales https://t.co/bGSNkTwqwn,1,0.8341886,0.15396062,Disaster
+22095,wildfire,,"#Yoshiki donated $100,000 to Australian wildfire relief &amp; a rain forest trust. https://t.co/4sFWTk1GWB",1,0.8394374,0.15422738,Disaster
+22098,wildfire,"Norwich, UK",Future #wildfire risks grow with each added degree. To minimise growth in fire risk we must in fire risk we must st… https://t.co/bMVfhgFvTg,1,0.8402773,0.14780645,Disaster
+22099,wildfire,"Norwich, UK",Today publishes its first Rapid Response Review on #wildfire risks https://t.co/n1aEo0Elos **All*… https://t.co/EzhinzWa8j,1,0.8675132,0.123644285,Disaster
+22101,wildfire,"Willunga, South Australia","Climate change: Australia fires will be 'normal' in warmer world. ""Overall, the 57 papers reviewed clearly show h… https://t.co/5oMrgcP6gj",1,0.8754837,0.1216496,Disaster
+22103,wildfire,Worldwide,"New post: ""Parkway Drive Donated $34,000 to Australian Wildfire Relief"" https://t.co/xM0k86dpoc",1,0.8840246,0.115683444,Disaster
+22111,windstorm,,"#KincadeFire rages on as huge, 'historic' windstorm approaches. reports https://t.co/SQSu5NaQhU https://t.co/Bemsxy…",1,0.9176776,0.082810976,Disaster
+22301,wreckage,"British Columbia, Canada","Stunning drone video of Bound Brook fire aftermath shows charred, smoldering wreckage https://t.co/Zc5tKjzpZO",1,0.9218594,0.07822993,Disaster

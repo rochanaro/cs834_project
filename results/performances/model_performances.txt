@@ -1,0 +1,7 @@
+./saved_models/lemos_DT_nlp_bert_051.keras
+0.7945945945945946
+
+
+./saved_models/lemos_DT_nlp_bert_052.keras
+0.7867950481430537
+

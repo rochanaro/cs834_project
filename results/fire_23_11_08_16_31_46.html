@@ -1,0 +1,915 @@
+<p><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th style = "background-color: #FFFFFF;font-family: Trebuchet MS;font-size: medium;color: #305496;text-align: left;border-bottom: 2px solid #305496;padding: 1px 2px 1px 4px;width: auto">id</th>
+      <th style = "background-color: #FFFFFF;font-family: Trebuchet MS;font-size: medium;color: #305496;text-align: left;border-bottom: 2px solid #305496;padding: 1px 2px 1px 4px;width: auto">keyword</th>
+      <th style = "background-color: #FFFFFF;font-family: Trebuchet MS;font-size: medium;color: #305496;text-align: left;border-bottom: 2px solid #305496;padding: 1px 2px 1px 4px;width: auto">location</th>
+      <th style = "background-color: #FFFFFF;font-family: Trebuchet MS;font-size: medium;color: #305496;text-align: left;border-bottom: 2px solid #305496;padding: 1px 2px 1px 4px;width: auto">text</th>
+      <th style = "background-color: #FFFFFF;font-family: Trebuchet MS;font-size: medium;color: #305496;text-align: left;border-bottom: 2px solid #305496;padding: 1px 2px 1px 4px;width: auto">prob_DIS_TRUE</th>
+      <th style = "background-color: #FFFFFF;font-family: Trebuchet MS;font-size: medium;color: #305496;text-align: left;border-bottom: 2px solid #305496;padding: 1px 2px 1px 4px;width: auto">prob_DIS_FALSE</th>
+      <th style = "background-color: #FFFFFF;font-family: Trebuchet MS;font-size: medium;color: #305496;text-align: left;border-bottom: 2px solid #305496;padding: 1px 2px 1px 4px;width: auto">prediction</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">15765</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">emergency</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">philippines</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Wildfire Rips Along South Korea's Eastern Coast, Prompting National Emergency https://t.co/dnhqAV70ym</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.931511</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.071229</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">22087</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">wildfire</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Bargone di Casarza Lig, Italia</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Wildfire Rips Along South Korea's Eastern Coast, Prompting National Emergency https://t.co/g2TH9TUZQw</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.931511</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.071229</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">22088</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">wildfire</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Newark, NJ</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Wildfire Rips Along South Korea's Eastern Coast, Prompting National Emergency https://t.co/eSTO9doFZe</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.931511</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.071229</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">22091</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">wildfire</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Kolkata, India</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Wildfire Rips Along South Korea's Eastern Coast, Prompting National Emergency https://t.co/GKYJPZfGnE</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.931511</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.071229</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">13062</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">casualty</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Mumbai India</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Fire in Mahul. Fire in BPCL #Mahul No casualty reported so far How is the going to ensure security of residents…</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.931159</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.072956</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">13031</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">casualties</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Fire Breaks Out At Bharat Petroleum Plant In Mumbai, No Casualties https://t.co/7e2Nz0x2O0</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.930716</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.071707</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">12798</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">buildings-on-fire</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">near Detroit</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Massive fire in New Jersey leaves thousands without power: U.S. media A massive fire engulfed many buildings in Bound B…</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.929256</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.071971</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">19399</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">razed</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Thornton, Cleveleys UK</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">#ThisDay 2014 - Up to 5 people feared dead as devastating bush-fires sweep through Perth, Australia. https://t.co/ylvPlqDpdg</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.928888</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.072334</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">16633</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">fire-truck</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Atlanta</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Driver killed after truck hits tree, catches fire in Lincoln County - WLBT: https://t.co/Bv79Bv0LUN</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.928836</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.070671</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">15301</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">drought</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Torrevieja,ALICANTE,SPAIN</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Huge RAIN BOMB set to hit drought-ravaged Australia gives hope to exhausted firefighters https://t.co/ESshqmDM1e</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.928555</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.072516</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">16852</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">flood</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Pontianak, Kalimantan Barat.</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">1 week into 2020: 1. Flood in Jkt 2. Fire in Australia 3. WW3 madness and now... Reynhard Sinaga Damn...2020 needs to ch…</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.928525</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.071701</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">12799</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">buildings-on-fire</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">USA</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Massive fire in New Jersey leaves thousands without power: U.S. media A massive fire engulfed many buildings in Bou… https://t.co/aO79viaMHT</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.928071</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.073602</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">16914</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">floods</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Malacca, Malaysia</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">our 2020 so far: 🇦🇺 Australia bushfires 🇺🇲🇮🇷 World War 3 threats from US &amp;amp; Iran 🇮🇩 flash floods in Indonesia 🇵🇷🇮🇷 Puerto Ri…</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.926319</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.07287</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">11190</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">ambulance</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Republic of Ireland.</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Fire Engulfs Ambulance Conveying Corpse of Catholic Priest’s Mother; #streetjournal https://t.co/gK6dAGKRrL</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.9261</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.074305</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">12837</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">burned</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">🚨 AUSTRALIA IS ON FIRE 😭 At least 24 people have so far been killed - including three volunteer firefighters - and mor…</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.926088</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.076495</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">12807</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">buildings-on-fire</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">A massive fire in Somerset County consumed at least five buildings, forced over 100 residents to evacuate and suspe… https://t.co/72cwoB36DA</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.926005</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.07685</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">12787</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">buildings-on-fire</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">New Jersey</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Following last night's seven-alarm fire in downtown Bound Brook, citizens face power outages, road closures and sch… https://t.co/1llyVlN0iJ</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.925964</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.07647</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">22057</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">wildfire</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">England, United Kingdom</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">A rescue operation organized by a local family on Kangaroo Island transported injured koalas from areas devastated by bushfires. T…</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.925731</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.075086</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">16700</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">flames</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Communal violence in Telangana's Bhainsa: -Stone pelting -Vehicles set on fire -Now, media reported 18 houses set on fire…</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.925323</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.077131</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">16952</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">floods</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Mumbai, India</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Deadliest disasters: Earthquakes Floods Forest Fire Volcanic Eruption M0d! &amp;amp; $h</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.925123</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.072664</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">12786</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">buildings-on-fire</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Philadelphia, PA</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">A massive fire in North Jersey consumed at least five buildings, forced over 100 residents to evacuate and shut dow… https://t.co/7Y2wjitVyi</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.925083</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.076657</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">12778</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">buildings-on-fire</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">A raging fire in Bound Brook, New Jersey, on Sunday destroyed several buildings and went to seven alarms.… https://t.co/b12SdhSF4Z</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.924964</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.079574</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">12811</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">buildings-on-fire</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Glendale, Ca</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Tfw ur buildings on fire. https://t.co/4HAIN43TZ4</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.924791</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.075803</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">12795</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">buildings-on-fire</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Update: the fire crossed the street. I’m hearing at least five buildings on that side affected. Town has several bl… https://t.co/0hR1HV8cIc</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.924296</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.075434</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">13037</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">casualties</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">北京, 中华人民共和国</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">#Update: No casualties have been found and the fire has been put out, according to local authorities. The cause of… https://t.co/130QV9UDSC</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.924261</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.083149</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">12940</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">bush-fires</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Cascadia</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">A 1.5-million-acre “megafire” is threatening Australia. Indonesia is dealing with deadly floods. We cannot keep avoiding…</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.924122</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.075701</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">22049</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">wild-fires</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Earthquake in Puerto Rico. Volcano erupts in the Philippines. Wild fires in Australia. Wake up people</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.923823</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.075412</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">11474</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">arson</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">GO #ScoMo! GO #Boris Johnson!</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">2009 bushfires in Victoria: - 173 fatalities - Labor Govt &amp;amp; Kevin Rudd - Caused by arson, power lines, lightning - Nobody…</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.92337</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.076329</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">16295</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">famine</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">This world is ending Earthquakes Floods Half of Australia on fire Locusts in Somalia Ethiopia &amp;amp; Kenya Trump about to star…</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.922986</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.073693</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">16402</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">fatalities</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">2009 bushfires in Victoria: - 173 fatalities - Labor Govt &amp;amp; Kevin Rudd - Caused by arson, power lines, lightning -… https://t.co/pQSo7nVFuk</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.922573</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.077481</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">16046</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">evacuate</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">🇺🇸 🇺🇸 🇺🇸</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">1️⃣4️⃣9️⃣ AUSTRALIA URGES MASS EVACUATION 🔥 Australia urging some 240,000 citizens to evacuate. 🔥 Seems “bushfires” may b…</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.922284</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.078588</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">11475</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">arson</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Port Alfred</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Boats on fire in PA small boat harbour – arson suspected https://t.co/k7HGhdjLTQ via</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.922116</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.07947</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">12983</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">bush-fires</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Mostly London</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">So what happened to Australian bush fires? Or the tens of thousands of people displaced in the Philippines due to a… https://t.co/QNj5IFoozz</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.922049</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.076634</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">19423</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">razed</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Cebu, Philippines</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">A fire razed at least 60 houses in a densely populated residential area in Sitio Santo Niño 3, Barangay Luz, on Mon… https://t.co/fMZruP45Fs</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.921967</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.082071</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">22301</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">wreckage</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">British Columbia, Canada</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Stunning drone video of Bound Brook fire aftermath shows charred, smoldering wreckage https://t.co/Zc5tKjzpZO</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.921859</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.07823</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">22050</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">wild-fires</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">we had pretty wild fire here on #brazil , and im hoping this fires on australia come to an end #FighttheFires</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.921748</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.083638</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">11371</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">armageddon</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Alaska</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">It was pitch black at 9.30am in Mallacoota as more than 4,000 people fled AustralianFires, seeking shelter on the beac…</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.92115</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.08231</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">15120</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">devastation</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Scorched earth devastation on #KangarooIsland 💔 #bushfirecrisis #Australia …</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.921148</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.076612</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">22033</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">wild-fires</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">North Yorkshire</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Doing what I can. Been left heart broken by the news over the past week from the horrific Australian wild fires, 100%…</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.92098</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.081938</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">17292</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">hazardous</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Cambridge</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Melbourne choked by hazardous smoke as bushfires continue to burn across Victoria https://t.co/McmEpO9ZI3</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.920919</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.080015</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">12782</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">buildings-on-fire</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">2 buildings on fire at seminole State College Stanford campus. 8 fire trucks including some from Longwood. #seminolestate.</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.920357</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.082917</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">16595</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">fire</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Bermuda</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">"BFRS: At 6:27pm, BFRS received call reporting a house boat on fire in Dockyard. Responded with 6 appliances &amp;amp; 14 f… https://t.co/D9WoGTjAY9</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.920195</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.084035</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">16970</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">forest-fire</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Atascocita, Texas</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Units responding to a report of a Small Trash Fire on East Fm 1960 And Timber Forest Dr - in Atascocita</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.92009</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.084236</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">15130</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">devastation</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Canberra, Australia</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Along the border of NSW and Victoria, where three fires have now joined together, communities are trying to deal with the devas…</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.91992</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.085021</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">11489</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">arson</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Officials Charge Nearly 200 with Arson, Looting as Wildfires Rage https://t.co/sY2lhGhsGZ</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.919897</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.088719</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">13005</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">casualties</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">New Delhi, India</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Delhi: Fire breaks out at footwear factory https://t.co/PGmJ7UhCqG #delhi #newdelhi</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.919757</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.086375</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">18756</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">obliterate</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Manchester</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Absolutely..part of world is on fire ..the Middle East is volitile... BJ and DT are socio… https://t.co/Xdd3YldIBA</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.919701</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.080571</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">16010</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">epicentre</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Cudgewa in the epicentre of the fires near Corryong, all pasture paddocks burnt , houses burnt , stock losses , cat… https://t.co/Q7Tcsn6jyR</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.919547</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.082745</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">22083</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">wildfire</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">New York, NY</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">The toll from Australia's wildfires thus far: -At least 28 people killed -1 billion animals feared dead -Over 25 million acr…</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.919533</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.078422</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">12827</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">burned</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Japan</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">This timelapse of #Sentinel3 🇪🇺🛰 imagery shows the magnitude of the #AustralianBushfire crisis in terms of burned areas…</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.919319</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.082739</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">19444</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">razed</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Pakenham, Victora, Australia</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">"A beautiful bunch of legends," - tradies band together to rebuild bushfire ravaged towns #TFFAC https://t.co/…</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.919144</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.080925</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">15804</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">emergency</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Palma de Mallorca, España</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Help rescue and care for the innocent victims of the fires! Millions of animals are dying from the Australian wildf… https://t.co/Rsp6NOFC8R</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.918502</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.084254</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">18324</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">mass-murderer</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Marivan, western #Iran Brave youths set fire to a large poster of the mullahs' IRGC Quds Force chief Qasem Soleimani, exp…</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.918477</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.088345</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">13945</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">damage</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Residents of Conjola Park in NSW return to survey the damage after bushfire. #abc730 #AustralianBushfiresDisaster…</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.918397</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.079089</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">18335</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">mass-murderer</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Marivan, western #Iran Brave youths set fire to a large poster of the mullahs' IRGC Quds Force chief Qasem Soleiman… https://t.co/m1vluajqMJ</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.918356</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.089089</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">13021</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">casualties</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Faridabad, India</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Fire breaks out a shoe manufacturing unit in at the Lawrence Road in North Delhi. 26 fire tenders rushed to the spot. No cas…</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.918308</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.087839</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">16203</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">explosion</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Huge explosion and fire in a chemical plant in Zhuhai today. The fire was not out by 3pm, People’s Daily reported, citing a vi…</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.918201</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.082876</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">12852</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">burned</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">au</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Australia’s government called bushfire damage to wildlife an "ecological disaster." The military is clearing up scores of dead…</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.918155</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.07966</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">13015</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">casualties</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Oregon</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">#UPDATE: No casualties reported in the explosion at a chemical factory in Zhuhai, South China's Guangdong, and the fire has be…</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.918047</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.079814</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">22111</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">windstorm</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">#KincadeFire rages on as huge, 'historic' windstorm approaches. reports https://t.co/SQSu5NaQhU https://t.co/Bemsxy…</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.917678</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.082811</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">12809</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">buildings-on-fire</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Ohio, USA</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">This firefight far from over, Fire started at an apartment complex that was under construction,…</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.917638</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.087379</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">13064</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">casualty</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Bolton, England</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">A casualty of the fires. Burning at times at a speed of up to 3kms a second, many wildlife didn’t stand a chance. With dead…</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.917579</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.082951</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">11515</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">arsonist</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Fke news. None of the bush fires in Victoria were lit by arsonist.</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.917018</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.082871</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">22047</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">wild-fires</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">New York, NY</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Wild Fires</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.917012</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.087998</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">17777</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">injured</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">LiberalsR VIRTUE SIGNALLINGpos</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">🔴Breaking News Oppressive forces of the Islamic Republic in Tehran have fired on people. Several people have been inj…</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.916551</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.085459</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">22020</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">wild-fires</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">PUNE. MAHARASHTRA. INDIA.</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Australia Bush 🔥 Wild Fires. https://t.co/rcrANcPHsx</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.916536</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.084589</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">15109</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">devastation</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Chile</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">A side by side comparison of the fire devastation on Kangaroo Island, Australia. 😢😢 https://t.co/rdYBeW8twU</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.916434</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.082932</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">15111</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">devastation</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">we the purple</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">A side by side comparison of the fire devastation on Kangaroo Island, Australia. 😢😢 https://t.co/dqj307GSxq</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.916434</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.082932</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">15124</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">devastation</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">A side by side comparison of the fire devastation on Kangaroo Island, Australia. 😢😢 https://t.co/2pfYF2Fslo</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.916434</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.082932</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">15128</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">devastation</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Mumbai, India</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">A side by side comparison of the fire devastation on Kangaroo Island, Australia. 😢😢 https://t.co/xCqB624mxL</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.916434</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.082932</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">15738</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">emergency</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Basse-Normandie, France</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">#AUSTRALIA FIRES UPDATE: Our Animal Rescue Team continues to look for signs of life on Kangaroo Island &amp;amp; provide care for su…</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.916383</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.084688</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">18298</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">mass-murder</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">United States</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Absolutely tragic. And intentional. Mass murder. Not #climatechange #AustralianBushfire #AustralianWildFires https://t.co/SHAWE4yNOd</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.916347</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.080073</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">11373</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">armageddon</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Atlanta, GA</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">It was pitch black at 9.30am in Mallacoota as more than 4,000 people fled AustralianFires, seeking shelter on the b… https://t.co/YtSAuNs5j8</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.916317</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.086622</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">16183</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">explosion</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Perak, Malaysia</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">2020 might be worse than 2019. • WW3 threats. • Taal Volcano explosion after how many years. • Australia fire. • Indonesi…</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.916279</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.077982</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">12744</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">buildings-burning</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">New York City</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Massive fire burning in apartment building under construction, neighboring buildings in New Jersey https://t.co/96UeW5Jpno</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.916218</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.081863</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">16967</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">forest-fire</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">The Beach</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Tonight I've seen this fire 🔥 above Tokeh village increase from a small fire to this in just 2 hours. This needs to st…</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.91598</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.087145</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">12988</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">bush-fires</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">wakatipu, aotearoa | she/her</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">The Australian bush fires have been and continue to be devastating. We, like many others, feel we have a responsibility t…</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.915845</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.08646</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">11505</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">arson</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Arson major factor in Australian Fires... https://t.co/X59fykaOdA</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.915421</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.084781</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">15889</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">emergency-services</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Melbourne, Victoria</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Very smokey in #Melbourne today. Destruction and impact of the #bushfiresAustralia seems unrelenting. Deep gratitud… https://t.co/ouDnrP5hpK</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.915222</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.085349</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">14345</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">deluge</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Forecasters are saying there’s “a lot of rain to go round in the next eight days”, with parts of bushfire-ravaged area…</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.915182</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.085369</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">15925</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">engulfed</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Phoenix, AZ</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">A young woman was killed in a fire that engulfed at least one suburban Phoenix apartment early this morning. https://t.co/hoaneu62xW</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.915134</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.089158</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">17304</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">hazardous</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Melbourne, Victoria</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Melbourne air quality drops to 'hazardous' levels as bushfire smoke lingers over Victoria https://t.co/m1L1YhSgFr via</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.915076</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.085545</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">15106</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">devastated</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">おもちゃ屋さん</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">The bushfire crisis has devastated communities across the nation and the scenes of loss are heartbreaking. We’ve heard…</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.914932</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.0883</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">12776</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">buildings-on-fire</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Unknown</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">An enormous fire on Sunday engulfed two apartment buildings that were under construction in Bound Brook, New Jersey, sowing pa…</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.914911</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.089167</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">11477</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">arson</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Bengaluru, Karnataka</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Police figures show far fewer people in Australia have been charged with bushfire arson https://t.co/8KPMNFSmcp https://t.co/VQeZhECrJm</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.914636</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.084609</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">12777</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">buildings-on-fire</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">New York, New York</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Nearly 12 hours after this fire began, crews are STILL at the scene hosing down buildings to keep neighbors out of har…</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.91455</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.091597</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">12873</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">burning</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">India</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">#Burning GN Rao Committee #Report and the #Boston Consulting Group Report in the #Bhogi Fire, along with other Trash, in #Thu…</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.91416</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.081027</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">17768</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">injured</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Australians are opening their homes to wildlife injured and orphaned in the bushfires. #abc730 #AustralianBushfires…</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.914009</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.085338</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">17008</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">forest-fires</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">It is terrible news what we see on TV every day about those forest fires. Terrible for all those peopl… https://t.co/vx2jaFBXCW</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.913859</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.091339</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">17273</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">hazardous</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Minnesota, USA</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Melbourne's air quality 'worst in the world' as bushfires continue to burn across Victoria https://t.co/44wOfgYcSN</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.913757</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.085896</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">17294</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">hazardous</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Melbourne</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Melbourne's air quality 'worst in the world' as bushfires continue to burn across Victoria https://t.co/yotDRLNqhc</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.913757</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.085896</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">17297</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">hazardous</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Melbourne, Victoria</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Melbourne's air quality 'worst in the world' as bushfires continue to burn across Victoria https://t.co/rq3B4SQnz5</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.913757</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.085896</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">17291</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">hazardous</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">London, England</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Why are none of the News Media reporting on this! Melbourne air quality drops to 'hazardous' levels as bushfire smo… https://t.co/g6e6R4mFUB</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.91304</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.082251</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">12790</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">buildings-on-fire</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Lima, OH</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">No one was injured after a fire on the 6th floor of the apartment buildings on N. Elizabeth St. in Lima. https://t.co/1tP3OuqyQe</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.913037</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.092073</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">22081</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">wildfire</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">California, USA</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Australia wildfire map update: High and very high fire danger forecast as thunderstorms might hamper containment efforts http…</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.912875</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.087016</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">22090</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">wildfire</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">CUHK professor Fang Kecheng revisits the real lessons of the disastrous 1987 Daxing’anling Wildfire, after a shameless…</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.91264</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.087234</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">12768</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">buildings-on-fire</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Bridgewater, NJ</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">An update on the massive fire on Main Street in Bound Brook Sunday night. https://t.co/GjM6x84Rtt</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.912546</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.089435</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">15619</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">earthquake</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Namkanda</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Puerto Rico - Earthquake 🌋 South Korea - Bush fire 🔥 Mexico volcano erupting 🌋 Guatemala volcano is still erupting 🌋 Ind…</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.91253</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.081899</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">15268</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">drought</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Padstow, Sydney</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Bit sad considering water restrictions, drought and bushfires in parts of the country, surely… https://t.co/cEApfsFN96</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.912356</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.086637</td>
+      <td style = "background-color: #D9E1F2;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+    <tr>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">12972</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">bush-fires</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto"></td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">At 9:00pm there are 105 bush and grass fires burning across NSW, with 38 not yet contained. All fires are currently at the Advi…</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.912351</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">0.093838</td>
+      <td style = "background-color: white; color: black;font-family: Trebuchet MS;font-size: medium;text-align: left;padding: 1px 2px 1px 4px;width: auto">Disaster</td>
+    </tr>
+  </tbody>
+</table></p>

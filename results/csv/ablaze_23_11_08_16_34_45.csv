@@ -1,0 +1,18 @@
+id,keyword,location,text,target,prob_DIS_TRUE,prob_DIS_FALSE,prediction
+11000,ablaze,,"Communal violence in Bhainsa, Telangana. ""Stones were pelted on Muslims' houses and some houses and vehicles were set ablaze…",1,0.91448367,0.08831403,Disaster
+11004,ablaze,,"""Lord Jesus, your love brings freedom and pardon. Fill me with your Holy Spirit and set my heart ablaze with your l… https://t.co/VlTznnPNi8",0,0.19612125,0.76304156,NOT a Disaster
+11005,ablaze,OC,"If this child was Chinese, this tweet would have gone viral. Social media would be ablaze. SNL would have made a racist j…",0,0.22696416,0.77767736,NOT a Disaster
+11006,ablaze,"London, England","Several houses have been set ablaze in Ngemsibaa village, Oku sub division in the North West Region of Cameroon by… https://t.co/99uHGAzxy2",1,0.8601308,0.13642368,Disaster
+11007,ablaze,Bharat,Asansol: A BJP office in Salanpur village was set ablaze last night. BJP has alleged that TMC is behind the incident. Police has b…,1,0.8321553,0.16620766,Disaster
+11008,ablaze,"Accra, Ghana","National Security Minister, Kan Dapaah's side chic has set the internet ablaze with her latest powerful video.… https://t.co/rhzOMQVSlj",0,0.24881409,0.7386575,NOT a Disaster
+11014,ablaze,"Reno, NV","AMEN! Set the whole system ablaze, man. https://t.co/J08xHDcGbD",0,0.18361942,0.7571919,NOT a Disaster
+11017,ablaze,,Rengoku sets my heart ablaze😔❤️🔥 P.s. I missed this style of coloring I do so here it is c: #鬼滅の刃 https://t.co/YrUF9g68s0,0,0.15790232,0.80331147,NOT a Disaster
+11018,ablaze,Worldwide,paulzizkaphoto: “Rundle Ablaze” Wishing you all a good evening... https://t.co/d0NlME1HQz https://t.co/hlVlT6qiIp,0,0.15704304,0.8129157,NOT a Disaster
+11019,ablaze,,French cameroun set houses ablaze in Ndu and roasted two young boys in their homes in #targeted killings in a #GenocideInSou…,1,0.90754086,0.09527973,Disaster
+11020,ablaze,,Cameroon's #BIR soldiers on the 05/01/2020 invaded the #SouthernCameroons Village of Kimar - So setting ablaze a total of…,1,0.919968,0.08370437,Disaster
+11021,ablaze,,As fires ablaze throughout the land/as the prophosized apocalypse comes to fruition/not a building standing/as we all come st…,1,0.7026652,0.2606174,Disaster
+11026,ablaze,,"Another arson in Njikom,Boyo,NWR. The ambazombies yesterday 13/1/2020 set ablaze the Council building. Which country in the wo…",1,0.8883228,0.11265385,Disaster
+11029,ablaze,,I swear that jam will set the world ablaze,0,0.21226287,0.7455692,NOT a Disaster
+11030,ablaze,,"Marivan, Kurdistan Province Monday, Jan 13th, 2020 Protesters set the propaganda banner of #QassemSoleimani ablaze. #I…",1,0.8916535,0.11755017,Disaster
+11031,ablaze,"Washington, DC","Marivan, Kurdistan Province Monday, Jan 13th, 2020 Protesters set the propaganda banner of #QassemSoleimani ablaze… https://t.co/IVGCYJZlmK",1,0.89073783,0.119608976,Disaster
+13953,damage,i was over there on the bench,Have spent the last couple of days in the tiny communities devastated by the megablaze on the NSW/Vic border. The damage…,1,0.92001694,0.08299986,Disaster
