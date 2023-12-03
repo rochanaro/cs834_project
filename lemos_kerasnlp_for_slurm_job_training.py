@@ -17,7 +17,9 @@ import pandas as pd
 import tensorflow as tf
 import keras_core as keras
 import keras_nlp
-import datetime
+
+import pytz
+from datetime import datetime
 import re
 
 import argparse
@@ -202,7 +204,7 @@ def run_training(itr,epoch=2):
                             )
     
     
-    classifier.save(saved_model_path)
+    
 
     # X = df_train["text"]
     # y = df_train["target"]
@@ -210,6 +212,7 @@ def run_training(itr,epoch=2):
     # X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=VAL_SPLIT, random_state=42)
     
     # X_test = df_test["text"]
+    classifier.save(saved_model_path)
 
 
    
@@ -223,12 +226,29 @@ def run_training(itr,epoch=2):
     tn, fp, fn, tp = confusion_matrix(y_test_true, np.argmax(y_pred, axis=1)).ravel()
     f1_score = tp / (tp+((fn+fp)/2))
 
+    tz_VA = pytz.timezone('America/Virgin')
+    datetime_VA = datetime.now(tz_VA)
+
+    # only write when f1_curr > f1_prev
+    
+
+    # if f1_score > f1_prev :
+    #     classifier.save(saved_model_path)
+        
     with open('results/performances/model_performances.txt','a') as f:
+        f.write('\n')
+        f.write(str(datetime_VA.strftime("%y_%m_%d_%H_%M_%S")))
         f.write('\n')
         f.write(saved_model_path)
         f.write('\n')
+        records_used_for_training = f'records_used_for_training:{len(df_train)}'
+        f.write(records_used_for_training)
+        f.write('\n')
         f.write(str(f1_score))
         f.write("\n\n")
+
+
+    
 
 
     # disp.ax_.set_title("Confusion Matrix on " + dataset + " Dataset -- F1 Score: " + str(f1_score.round(2)))    

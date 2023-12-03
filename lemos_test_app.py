@@ -28,6 +28,7 @@ import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
 import tensorflow as tf
 import keras_core as keras
 import keras_nlp
+import glob
 # import seaborn as sns
 # import matplotlib.pyplot as plt
 # import datetime
@@ -48,7 +49,10 @@ initial_train_records_count = len(pd.read_csv(r'dataset/train_split.csv')) # 685
 
 file_root_html = 'results/'
 file_root_csv = 'results/csv/'
-model_path = 'saved_models/lemos_DT_nlp_bert_CURR.keras'
+
+model_path, _, _ = lval.get_current_loaded_model_details()
+print(model_path)
+# model_path = 'saved_models/lemos_DT_nlp_bert_CURR.keras'
 
 prob_DIS_TRUE_threshold = 0.7
 prob_DIS_FALSE_threshold = 0.7
@@ -134,6 +138,9 @@ def process_keyword(keyword):
 
     new_model_path = lval.model_path_for_best_model()
 
+    print("new_model_path : ",new_model_path)
+    global reloaded_model_22
+
     if new_model_path != '':
         print("PLEASE WAIT : Loading the newly trained Best Performing Model")
         reloaded_model_22 = keras.models.load_model(new_model_path)  
@@ -214,11 +221,23 @@ def process_keyword(keyword):
     with open(file_name, 'w') as f:
         f.write(html_table_blue_light)
 
-
-    # submit the new training job with model_name and iteration??
+    print("Merging new train data CSV files")
+    merge_new_records_and_extend_training_dataset()
+    
+    # submit the new training job with model_name and iteration?? - 2023.12.01
     current_train_records_count = len(pd.read_csv(r'dataset/extended_training_dataset.csv')) # 6851
+    # current_train_records_count = 6851
 
-    if int(1.1*(initial_train_records_count)) < current_train_records_count:
+    _, previous_training_job_records_count, _ = lval.get_current_loaded_model_details() # -- get this from model_perfromace.txt
+    print('previous_training_job_count :',previous_training_job_records_count)
+    print('current_train_records_count (from extended_training_dataset) :',current_train_records_count)
+    # if int(1.1*(previous_training_job_count)) < current_train_records_count:
+
+    # only for testing
+    if (previous_training_job_records_count+200) < current_train_records_count:
+    
+    # if int(1.1*(initial_train_records_count)) < current_train_records_count:
+        print("submitting a new training job")
         
         itr = lval.get_next_iteration()
         epochs = '4'

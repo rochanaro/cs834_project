@@ -1,0 +1,5 @@
+23_12_02_18_13_59
+./saved_models/lemos_DT_nlp_bert_CURR.keras
+records_used_for_training:6587
+0.7874659400544959
+
